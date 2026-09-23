@@ -1,0 +1,12 @@
+{
+  "countries": ["netherlands", "germany", "france"],
+  "cities": {
+    "netherlands": ["amsterdam", "rotterdam", "the-hague"],
+    "germany": ["berlin", "munich", "hamburg"],
+    "france": ["paris", "lyon"]
+  },
+  "profiles": [
+    { "id": 1, "name": "Anna VIP", "country": "netherlands", "city": "amsterdam", "niche": "GFE, Massage", "image": "https://via.placeholder.com/300x400/900/fff?text=Anna", "url": "https://example.com/anna" },
+    { "id": 2, "name": "Julia Domina", "country": "germany", "city": "berlin", "niche": "BDSM, Fetish", "image": "https://via.placeholder.com/300x400/222/f00?text=Julia", "url": "https://example.com/julia" }
+  ]
+}
