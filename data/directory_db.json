@@ -1,6 +1,6 @@
 {
   "total_cities": 818,
-  "total_profiles": 8418,
+  "total_profiles": 8419,
   "cities": [
     {
       "slug": "cambridge",
@@ -139467,8 +139467,42 @@
       "slug": "brussels",
       "raw_slug": "brussels-163",
       "name": "Brussels",
-      "count": 130,
+      "count": 131,
       "profiles": [
+        {
+          "name": "Olivia°Tout",
+          "url": "https://www.quartier-rouge.be/escort/femmes/oliviatout-commence-ici.html",
+          "provider": "Quartier-Rouge Verified",
+          "badge": "★ VIP VERIFIED",
+          "hair": "brunette",
+          "body": "slim",
+          "age": 22,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall",
+            "massage",
+            "overnight"
+          ],
+          "nationality": "belgian",
+          "rates": {
+            "1h": 200,
+            "2h": 350,
+            "overnight": 900,
+            "currency": "EUR"
+          },
+          "rate_hourly": 200,
+          "photos": [
+            "/photos/brussels/olivia-tout/photo_1.jpg",
+            "/photos/brussels/olivia-tout/photo_2.avif",
+            "/photos/brussels/olivia-tout/photo_3.avif",
+            "/photos/brussels/olivia-tout/photo_4.jpg",
+            "/photos/brussels/olivia-tout/photo_5.avif",
+            "/photos/brussels/olivia-tout/photo_6.avif",
+            "/photos/brussels/olivia-tout/photo_7.avif",
+            "/photos/brussels/olivia-tout/photo_8.avif"
+          ]
+        },
         {
           "name": "Noa",
           "url": "https://www.quartier-rouge.be/escort/femmes/noa-xxx.html",

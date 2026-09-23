@@ -580,7 +580,7 @@ export default function CityFilterView({ city, lang }: Props) {
         </div>
       )}
 
-      {/* POPULAR COMBINATIONS (PROGRAMMATIC SEO SILO MESH) */}
+      {/* POPULAR COMBINATIONS (POPULAR COMBINATIONS) */}
       <section className="border-t border-neutral-800/80 pt-10 space-y-4">
         <div className="flex items-center justify-between">
           <h3 className="text-xl font-bold text-white flex items-center gap-2">
@@ -603,7 +603,7 @@ export default function CityFilterView({ city, lang }: Props) {
         </div>
       </section>
 
-      {/* BOTTOM SEO INFORMATION ARTICLE (Fully Localized) */}
+      {/* BOTTOM INFORMATION ARTICLE (Fully Localized) */}
       <section className="border-t border-neutral-800/80 pt-8 text-neutral-400 text-sm leading-relaxed space-y-4">
         {lang === 'nl' ? (
           <>

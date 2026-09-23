@@ -199,7 +199,7 @@ export default async function FacetCityPage(props: { params: Promise<{ lang: str
       viewProfileBtn: 'Profili & Foto Galeri İncele →',
       directContactBtn: 'İletişim & Randevu',
       relatedTitle: `${locationBadge} İlgili Popüler Arama Kombinasyonları`,
-      geoTitle: 'Programmatic SEO Hubs',
+      geoTitle: 'Related Categories',
       guideBadge: 'VIP Rehber & Fiyatlandırma',
       fromPrice: 'Başlangıç',
       hour: 'saat',
@@ -216,7 +216,7 @@ export default async function FacetCityPage(props: { params: Promise<{ lang: str
       viewProfileBtn: 'View Profile & Full Gallery →',
       directContactBtn: 'Contact & Booking',
       relatedTitle: `Popular Search Combinations in ${locationBadge}`,
-      geoTitle: 'Programmatic SEO Hubs',
+      geoTitle: 'Related Categories',
       guideBadge: 'VIP Guide & Pricing Table',
       fromPrice: 'From',
       hour: 'hr',
@@ -233,7 +233,7 @@ export default async function FacetCityPage(props: { params: Promise<{ lang: str
       viewProfileBtn: 'Profil & Fotogalerie ansehen →',
       directContactBtn: 'Kontakt & Buchung',
       relatedTitle: `Beliebte Suchkombinationen in ${locationBadge}`,
-      geoTitle: 'SEO Directory Hubs',
+      geoTitle: 'Related Categories',
       guideBadge: 'VIP Ratgeber & Tarife',
       fromPrice: 'Ab',
       hour: 'Std',
@@ -250,7 +250,7 @@ export default async function FacetCityPage(props: { params: Promise<{ lang: str
       viewProfileBtn: 'Voir le Profil & Photos →',
       directContactBtn: 'Contacter le Modèle',
       relatedTitle: `Combinaisons Populaires à ${locationBadge}`,
-      geoTitle: 'Hubs SEO',
+      geoTitle: 'Related Categories',
       guideBadge: 'Guide VIP & Tarifs',
       fromPrice: 'À partir de',
       hour: 'h',
@@ -267,7 +267,7 @@ export default async function FacetCityPage(props: { params: Promise<{ lang: str
       viewProfileBtn: 'Ver Perfil y Galería →',
       directContactBtn: 'Contacto Directo',
       relatedTitle: `Búsquedas Populares en ${locationBadge}`,
-      geoTitle: 'Hubs SEO',
+      geoTitle: 'Related Categories',
       guideBadge: 'Guía VIP & Tarifas',
       fromPrice: 'Desde',
       hour: 'h',
@@ -284,7 +284,7 @@ export default async function FacetCityPage(props: { params: Promise<{ lang: str
       viewProfileBtn: 'Visualizza Profilo & Foto →',
       directContactBtn: 'Contatto Diretto',
       relatedTitle: `Ricerche Correlate a ${locationBadge}`,
-      geoTitle: 'Hubs SEO',
+      geoTitle: 'Related Categories',
       guideBadge: 'Guida VIP & Prezzi',
       fromPrice: 'Da',
       hour: 'ora',
@@ -301,7 +301,7 @@ export default async function FacetCityPage(props: { params: Promise<{ lang: str
       viewProfileBtn: 'Bekijk Profiel & Galerij →',
       directContactBtn: 'Direct Contact',
       relatedTitle: `Populaire Zoekcombinaties in ${locationBadge}`,
-      geoTitle: 'SEO Hubs',
+      geoTitle: 'Related Categories',
       guideBadge: 'VIP Gids & Tarieven',
       fromPrice: 'Vanaf',
       hour: 'uur',
@@ -562,7 +562,7 @@ export default async function FacetCityPage(props: { params: Promise<{ lang: str
           })}
         </div>
 
-        {/* RELATED COMBINATIONS (PROGRAMMATIC SEO SILO MESH) */}
+        {/* RELATED COMBINATIONS (POPULAR COMBINATIONS) */}
         <section className="border-t border-neutral-800/80 pt-10 space-y-4">
           <div className="flex items-center justify-between">
             <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2">
@@ -608,7 +608,7 @@ export default async function FacetCityPage(props: { params: Promise<{ lang: str
           />
         </section>
 
-        {/* COMPREHENSIVE SEO CONTENT AT THE BOTTOM (350-500 WORDS) */}
+        {/* COMPREHENSIVE CONTENT AT THE BOTTOM (350-500 WORDS) */}
         <section className="border-t border-neutral-800/80 pt-10">
           <div className="bg-[#0b0b10] border border-neutral-800/90 rounded-2xl p-6 md:p-10 text-neutral-300 leading-relaxed text-sm md:text-base space-y-4 shadow-xl">
             <div className="inline-block px-3 py-1 rounded-full bg-red-950/60 border border-red-500/40 text-red-400 text-xs font-bold uppercase tracking-wider mb-2">

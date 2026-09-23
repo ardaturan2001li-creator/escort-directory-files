@@ -186,7 +186,7 @@ export default async function ModelDetailPage({ params }: PageProps) {
   return (
     <div className="max-w-6xl mx-auto px-4 py-8 space-y-8">
       
-      {/* Breadcrumb Navigation with Primary Niche Hub */}
+      {/* Breadcrumb Navigation with Primary Category */}
       <nav className="flex items-center gap-2 text-xs text-neutral-400 overflow-hidden truncate">
         <Link href={`/${lang}`} className="hover:text-white transition-colors">
           Home
@@ -467,7 +467,7 @@ export default async function ModelDetailPage({ params }: PageProps) {
             <div className="flex items-center justify-between border-b border-neutral-800 pb-3">
               <h3 className="text-sm font-bold text-white flex items-center gap-2">
                 <span className="text-red-500">📍</span>
-                {activeLang === 'tr' ? `${city.name} İlgili Popüler Niş Hub'lar` : activeLang === 'de' ? `Relevante Nischen-Hubs in ${city.name}` : activeLang === 'nl' ? `Relevante Niche Hubs in ${city.name}` : `Popular Niche Hubs in ${city.name}`}
+                {activeLang === 'tr' ? `${city.name} İlgili Popüler Niş Hub'lar` : activeLang === 'de' ? `?hnliche Kategorien in ${city.name}` : activeLang === 'nl' ? `Vergelijkbare Categorie?n in ${city.name}` : `Explore More in ${city.name}`}
               </h3>
               
             </div>
