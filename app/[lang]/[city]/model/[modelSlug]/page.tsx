@@ -469,7 +469,7 @@ export default async function ModelDetailPage({ params }: PageProps) {
                 <span className="text-red-500">📍</span>
                 {activeLang === 'tr' ? `${city.name} İlgili Popüler Niş Hub'lar` : activeLang === 'de' ? `Relevante Nischen-Hubs in ${city.name}` : activeLang === 'nl' ? `Relevante Niche Hubs in ${city.name}` : `Popular Niche Hubs in ${city.name}`}
               </h3>
-              <span className="text-[11px] text-neutral-400 font-semibold">Programmatic SEO Network</span>
+              
             </div>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2.5 pt-1">
@@ -478,7 +478,7 @@ export default async function ModelDetailPage({ params }: PageProps) {
                 className="p-2.5 rounded-xl bg-neutral-900/80 border border-neutral-800 hover:border-red-500/70 hover:bg-neutral-800 text-xs text-neutral-300 hover:text-white transition-all flex items-center gap-2"
               >
                 <span>👱‍♀️</span>
-                <span className="truncate">{city.name} {profile.hair.toUpperCase()} Escortlar</span>
+                <span className="truncate">{activeLang === 'tr' ? `${city.name} ${profile.hair.toUpperCase()} Escortlar` : `${city.name} ${profile.hair.toUpperCase()} Escorts`}</span>
               </Link>
 
               <Link
@@ -486,7 +486,7 @@ export default async function ModelDetailPage({ params }: PageProps) {
                 className="p-2.5 rounded-xl bg-neutral-900/80 border border-neutral-800 hover:border-red-500/70 hover:bg-neutral-800 text-xs text-neutral-300 hover:text-white transition-all flex items-center gap-2"
               >
                 <span>🏨</span>
-                <span className="truncate">{city.name} Otele Gelenler (Outcall)</span>
+                <span className="truncate">{activeLang === 'tr' ? `${city.name} Otele Gelenler` : `${city.name} Outcall`}</span>
               </Link>
 
               <Link
@@ -494,7 +494,7 @@ export default async function ModelDetailPage({ params }: PageProps) {
                 className="p-2.5 rounded-xl bg-neutral-900/80 border border-neutral-800 hover:border-red-500/70 hover:bg-neutral-800 text-xs text-neutral-300 hover:text-white transition-all flex items-center gap-2"
               >
                 <span>🔥</span>
-                <span className="truncate">{city.name} {profile.hair.toUpperCase()} & Otele Gelen</span>
+                <span className="truncate">{city.name} {profile.hair.toUpperCase()} & {activeLang === 'tr' ? 'Otele Gelen' : 'Outcall'}</span>
               </Link>
 
               <Link
@@ -502,7 +502,7 @@ export default async function ModelDetailPage({ params }: PageProps) {
                 className="p-2.5 rounded-xl bg-neutral-900/80 border border-neutral-800 hover:border-red-500/70 hover:bg-neutral-800 text-xs text-neutral-300 hover:text-white transition-all flex items-center gap-2"
               >
                 <span>🍒</span>
-                <span className="truncate">{city.name} {profile.body.toUpperCase()} Modeller</span>
+                <span className="truncate">{activeLang === 'tr' ? `${city.name} ${profile.body.toUpperCase()} Modeller` : `${city.name} ${profile.body.toUpperCase()} Models`}</span>
               </Link>
 
               <Link
@@ -510,7 +510,7 @@ export default async function ModelDetailPage({ params }: PageProps) {
                 className="p-2.5 rounded-xl bg-neutral-900/80 border border-neutral-800 hover:border-red-500/70 hover:bg-neutral-800 text-xs text-neutral-300 hover:text-white transition-all flex items-center gap-2"
               >
                 <span>💆‍♀️</span>
-                <span className="truncate">{city.name} Erotik Masaj</span>
+                <span className="truncate">{activeLang === 'tr' ? `${city.name} Erotik Masaj` : `${city.name} Erotic Massage`}</span>
               </Link>
 
               <Link
@@ -534,7 +534,7 @@ export default async function ModelDetailPage({ params }: PageProps) {
                 className="p-2.5 rounded-xl bg-neutral-900/80 border border-neutral-800 hover:border-red-500/70 hover:bg-neutral-800 text-xs text-neutral-300 hover:text-white transition-all flex items-center gap-2"
               >
                 <span>🍑</span>
-                <span className="truncate">{city.name} Anal Hizmeti</span>
+                <span className="truncate">{activeLang === 'tr' ? `${city.name} Anal Hizmeti` : `${city.name} Anal Service`}</span>
               </Link>
 
               <Link
@@ -542,7 +542,7 @@ export default async function ModelDetailPage({ params }: PageProps) {
                 className="p-2.5 rounded-xl bg-neutral-900/80 border border-neutral-800 hover:border-red-500/70 hover:bg-neutral-800 text-xs text-neutral-300 hover:text-white transition-all flex items-center gap-2"
               >
                 <span>🌙</span>
-                <span className="truncate">{city.name} Gece Kalan (Overnight)</span>
+                <span className="truncate">{activeLang === 'tr' ? `${city.name} Gece Kalan` : `${city.name} Overnight`} (Overnight)</span>
               </Link>
             </div>
           </div>

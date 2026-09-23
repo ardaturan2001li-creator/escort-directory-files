@@ -1,6 +1,6 @@
 {
   "total_cities": 818,
-  "total_profiles": 8417,
+  "total_profiles": 8418,
   "cities": [
     {
       "slug": "cambridge",
@@ -139467,8 +139467,42 @@
       "slug": "brussels",
       "raw_slug": "brussels-163",
       "name": "Brussels",
-      "count": 129,
+      "count": 130,
       "profiles": [
+        {
+          "name": "Noa",
+          "url": "https://www.quartier-rouge.be/escort/femmes/noa-xxx.html",
+          "provider": "Quartier-Rouge Verified",
+          "badge": "★ VIP VERIFIED",
+          "hair": "black",
+          "body": "curvy",
+          "age": 27,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall",
+            "massage",
+            "overnight"
+          ],
+          "nationality": "french",
+          "rates": {
+            "1h": 200,
+            "2h": 350,
+            "overnight": 900,
+            "currency": "EUR"
+          },
+          "rate_hourly": 200,
+          "photos": [
+            "/photos/brussels/noa/photo_1.jpg",
+            "/photos/brussels/noa/photo_2.avif",
+            "/photos/brussels/noa/photo_3.avif",
+            "/photos/brussels/noa/photo_4.jpg",
+            "/photos/brussels/noa/photo_5.avif",
+            "/photos/brussels/noa/photo_6.avif",
+            "/photos/brussels/noa/photo_7.avif",
+            "/photos/brussels/noa/photo_8.avif"
+          ]
+        },
         {
           "name": "Jessi",
           "url": "https://www.quartier-rouge.be/escort/femmes/jessi-quelle-fille-chaude.html",
