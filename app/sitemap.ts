@@ -1,11 +1,11 @@
 import { MetadataRoute } from 'next';
-import { getCities } from '@/lib/taxonomy';
+import { getTopCities } from '@/lib/db';
 
 const baseUrl = 'https://escortguide.vercel.app';
 const languages = ['en', 'de', 'fr', 'es', 'it', 'nl', 'tr', 'ar'];
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const cities = getCities();
+  const cities = getTopCities(100);
   const entries: MetadataRoute.Sitemap = [];
 
   // Home pages
