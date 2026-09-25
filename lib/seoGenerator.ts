@@ -1871,3 +1871,71 @@ export function getAttributeFacetSlug(type: 'hair' | 'body' | 'age', value: stri
   }
   return null;
 }
+
+
+export function generateModelDynamicIntro(profile: any, cityName: string, lang: string): string {
+  const name = profile.name;
+  const age = profile.age || '';
+  const hairMap: Record<string, Record<string, string>> = {
+    blonde: { en: 'blonde', tr: 'sar???n', de: 'blonde', nl: 'blonde', fr: 'blonde', es: 'rubia', it: 'bionda' },
+    brunette: { en: 'brunette', tr: 'esmer', de: 'br?nette', nl: 'brunette', fr: 'brune', es: 'casta?a', it: 'mora' },
+    redhead: { en: 'redhead', tr: 'k?z?l', de: 'rothaarige', nl: 'roodharige', fr: 'rousse', es: 'pelirroja', it: 'rossa' },
+    black: { en: 'black-haired', tr: 'siyah sa?l?', de: 'schwarzhaarige', nl: 'zwartharige', fr: 'aux cheveux noirs', es: 'pelinegra', it: 'capelli neri' }
+  };
+  const bodyMap: Record<string, Record<string, string>> = {
+    busty: { en: 'busty', tr: 'b?y?k g???sl?', de: 'vollbusige', nl: 'busty', fr: '? forte poitrine', es: 'pechugona', it: 'prosperosa' },
+    slim: { en: 'slim', tr: 'ince', de: 'schlanke', nl: 'slanke', fr: 'mince', es: 'delgada', it: 'snella' },
+    curvy: { en: 'curvy', tr: 'bal?k etli', de: 'kurvige', nl: 'curvy', fr: 'pulpeuse', es: 'curvil?nea', it: 'formosa' },
+    petite: { en: 'petite', tr: 'minyon', de: 'zierliche', nl: 'petite', fr: 'petite', es: 'peque?a', it: 'minuta' }
+  };
+
+  const hair = (hairMap[profile.hair] && hairMap[profile.hair][lang]) || (hairMap[profile.hair] && hairMap[profile.hair]['en']) || '';
+  const body = (bodyMap[profile.body] && bodyMap[profile.body][lang]) || (bodyMap[profile.body] && bodyMap[profile.body]['en']) || '';
+  
+  const hasOutcall = profile.services?.some((s: string) => s.includes('outcall') || s.includes('otele'));
+  const hasIncall = profile.services?.some((s: string) => s.includes('incall') || s.includes('kendi-yeri'));
+  
+  let serviceText = {
+    en: 'luxury companionship',
+    tr: 'l?ks arkada?l?k',
+    de: 'luxuri?se Begleitung',
+    nl: 'luxe gezelschap',
+    fr: 'compagnie de luxe',
+    es: 'compa??a de lujo',
+    it: 'compagnia di lusso'
+  };
+
+  if (hasOutcall && hasIncall) {
+    serviceText = {
+      en: 'both incall and hotel outcall services',
+      tr: 'hem kendi yerinde hem de otele (outcall) hizmet',
+      de: 'sowohl Hausbesuche als auch Hotel-Outcalls',
+      nl: 'zowel incall als hotel outcall services',
+      fr: 'des services sur place et ? l?h?tel',
+      es: 'servicios en su domicilio y en hoteles',
+      it: 'servizi sia in incall che in hotel'
+    };
+  } else if (hasOutcall) {
+    serviceText = {
+      en: 'discreet hotel outcall services',
+      tr: 'gizli ve g?venli otele geli? (outcall) hizmeti',
+      de: 'diskrete Hotel-Outcalls',
+      nl: 'discrete hotel outcall services',
+      fr: 'des services discrets ? l?h?tel',
+      es: 'servicios discretos en hoteles',
+      it: 'servizi discreti in hotel'
+    };
+  }
+
+  const sText = (serviceText as any)[lang] || serviceText['en'];
+
+  if (lang === 'tr') return `Tan???n: ${name}. ${cityName} ?ehrinde bulunan ${age ? age + ' ya??nda, ' : ''}${body} ve ${hair} bu b?y?leyici model, elit misafirleri i?in ${sText} sunmaktad?r. Zarif g?r?n?m? ve tutkulu karakteriyle unutulmaz bir deneyim vadediyor.`;
+  if (lang === 'de') return `Treffen Sie ${name}, eine atemberaubende ${age ? age + '-j?hrige ' : ''}${body} ${hair} Escort-Dame in ${cityName}. Sie bietet ${sText} f?r anspruchsvolle Gentlemen und garantiert ein unvergessliches Erlebnis voller Leidenschaft und Eleganz.`;
+  if (lang === 'nl') return `Ontmoet ${name}, een prachtige ${age ? age + '-jarige ' : ''}${body} ${hair} escort in ${cityName}. Zij biedt ${sText} aan exclusieve heren. Met haar charme en elegantie belooft ze een onvergetelijke en gepassioneerde ervaring.`;
+  if (lang === 'fr') return `Rencontrez ${name}, une magnifique escort ${body} et ${hair}${age ? ' de ' + age + ' ans' : ''} ? ${cityName}. Elle propose ${sText} pour des gentlemen exigeants, garantissant une exp?rience inoubliable pleine d'?l?gance et de passion.`;
+  if (lang === 'es') return `Conoce a ${name}, una impresionante escort ${body} y ${hair}${age ? ' de ' + age + ' a?os' : ''} en ${cityName}. Ofrece ${sText} para caballeros exigentes, garantizando una experiencia inolvidable llena de elegancia y pasi?n.`;
+  if (lang === 'it') return `Incontra ${name}, una splendida escort ${body} e ${hair}${age ? ' di ' + age + ' anni' : ''} a ${cityName}. Offre ${sText} per gentiluomini esigenti, garantendo un'esperienza indimenticabile piena di eleganza e passione.`;
+  
+  // Default EN
+  return `Meet ${name}, a stunning ${age ? age + '-year-old ' : ''}${body} ${hair} companion located in ${cityName}. She provides ${sText} for discerning gentlemen, ensuring an unforgettable experience characterized by elegance, discretion, and passion.`;
+}
