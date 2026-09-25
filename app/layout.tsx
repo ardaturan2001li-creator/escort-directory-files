@@ -6,12 +6,16 @@ export const metadata: Metadata = {
   title: 'Global Escort Directory - Verified International Companions',
   description: 'Explore verified independent escorts and VIP agencies worldwide.',
   robots: {
-    index: false,
-    follow: false,
+    index: true,
+    follow: true,
     googleBot: {
-      index: false,
-      follow: false,
+      index: true,
+      follow: true,
     },
+  },
+  },
+  verification: {
+    google: 'nu8nD3xtWZhhFacpXGEop1azL3T-31LFB4yx_Yd5xHk',
   },
   other: {
     'rating': 'RTA-5042-1996-1400-1574-JUR',
