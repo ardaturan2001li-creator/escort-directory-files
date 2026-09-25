@@ -1578,57 +1578,33 @@ export function getPopularCombinations(
   const prefix = districtKey ? `${districtKey}-` : '';
   const distLabel = districtKey ? `${districtKey.charAt(0).toUpperCase() + districtKey.slice(1)} ` : '';
 
-  const getLabel = (trLabel: string, enLabel: string, deLabel: string, nlLabel: string) => {
-    if (lang === 'tr') return `${distLabel}${cityName} ${trLabel}`;
-    if (lang === 'de') return `${enLabel} in ${distLabel}${cityName}`; // using EN labels for unsupported for now, or could map more
-    if (lang === 'nl') return `${nlLabel} in ${distLabel}${cityName}`;
-    return `${enLabel} in ${distLabel}${cityName}`; // default en
+  const getLocalized = (trSlug: string, trLabel: string, enSlug: string, enLabel: string, deSlug: string, deLabel: string, nlSlug: string, nlLabel: string) => {
+    if (lang === 'tr') return { slug: `${prefix}${trSlug}`, label: `${distLabel}${cityName} ${trLabel}` };
+    if (lang === 'de') return { slug: `${prefix}${deSlug}`, label: `${enLabel} in ${distLabel}${cityName}` };
+    if (lang === 'nl') return { slug: `${prefix}${nlSlug}`, label: `${nlLabel} in ${distLabel}${cityName}` };
+    return { slug: `${prefix}${enSlug}`, label: `${enLabel} in ${distLabel}${cityName}` };
   };
 
   const combinations = [
-    {
-      slug: `${prefix}anal-yapan-oral`,
-      label: getLabel('Anal ve Oral Yapan Escortlar', 'Anal & Oral Escorts', 'Anal & Oral Escorts', 'Anale Seks Escorts')
-    },
-    {
-      slug: `${prefix}sarisin-genc-anal`,
-      label: getLabel('Gen? Sar???n Anal Escortlar', 'Young Blonde Anal Escorts', 'Junge Blonde Anal Escorts', 'Jonge Blonde Anal Escorts')
-    },
-    {
-      slug: `${prefix}eve-gelen-sarisin`,
-      label: getLabel('Eve Gelen Sar???n Escortlar', 'Blonde Incall Escorts', 'Blonde Hausbesuch Escorts', 'Blonde Incall Escorts')
-    },
-    {
-      slug: `${prefix}gece-kalan-rus-escortlar`,
-      label: getLabel('Gece Kalan Rus Escortlar', 'Overnight Russian Escorts', 'Overnight Russische Escorts', 'Overnight Russische Escorts')
-    },
-    {
-      slug: `${prefix}masaj-yapan-olgun`,
-      label: getLabel('Masaj Yapan Olgun Escortlar', 'Mature Massage Escorts', 'Reife Massage Escorts', 'Rijpe Massage Escorts')
-    },
-    {
-      slug: `${prefix}buyuk-gogus-otele-gelen`,
-      label: getLabel('B?y?k G???sl? Otele Gelenler', 'Busty Outcall Escorts', 'Vollbusige Outcall Escorts', 'Busty Outcall Escorts')
-    },
-    {
-      slug: `${prefix}sevgili-tadinda-minyon`,
-      label: getLabel('Sevgili Tad?nda Minyon Modeller', 'Petite GFE Models', 'Zierliche GFE Modelle', 'Petite GFE Modellen')
-    },
-    {
-      slug: `${prefix}agza-bosalma-cim-anal`,
-      label: getLabel('CIM ve Anal Yapan Escortlar', 'CIM & Anal Escorts', 'CIM & Anal Escorts', 'CIM & Anale Seks Escorts')
-    }
+    getLocalized('anal-yapan-oral', 'Anal ve Oral Yapan Escortlar', 'anal-oral', 'Anal & Oral Escorts', 'anal-oral', 'Anal & Oral Escorts', 'anal-oral', 'Anale Seks Escorts'),
+    getLocalized('sarisin-genc-anal', 'Gen? Sar???n Anal Escortlar', 'young-blonde-anal', 'Young Blonde Anal Escorts', 'young-blonde-anal', 'Junge Blonde Anal Escorts', 'young-blonde-anal', 'Jonge Blonde Anal Escorts'),
+    getLocalized('eve-gelen-sarisin', 'Eve Gelen Sar???n Escortlar', 'incall-blonde', 'Blonde Incall Escorts', 'incall-blonde', 'Blonde Hausbesuch Escorts', 'incall-blonde', 'Blonde Incall Escorts'),
+    getLocalized('gece-kalan-rus-escortlar', 'Gece Kalan Rus Escortlar', 'overnight-russian', 'Overnight Russian Escorts', 'overnight-russian', 'Overnight Russische Escorts', 'overnight-russian', 'Overnight Russische Escorts'),
+    getLocalized('masaj-yapan-olgun', 'Masaj Yapan Olgun Escortlar', 'massage-milf', 'Mature Massage Escorts', 'massage-milf', 'Reife Massage Escorts', 'massage-milf', 'Rijpe Massage Escorts'),
+    getLocalized('buyuk-gogus-otele-gelen', 'B?y?k G???sl? Otele Gelenler', 'busty-outcall', 'Busty Outcall Escorts', 'busty-outcall', 'Vollbusige Outcall Escorts', 'busty-outcall', 'Busty Outcall Escorts'),
+    getLocalized('sevgili-tadinda-minyon', 'Sevgili Tad?nda Minyon Modeller', 'petite-gfe', 'Petite GFE Models', 'petite-gfe', 'Zierliche GFE Modelle', 'petite-gfe', 'Petite GFE Modellen'),
+    getLocalized('agza-bosalma-cim-anal', 'CIM ve Anal Yapan Escortlar', 'cim-anal', 'CIM & Anal Escorts', 'cim-anal', 'CIM & Anal Escorts', 'cim-anal', 'CIM & Anale Seks Escorts')
   ];
 
   if (neighborDistricts.length > 0) {
     for (const nd of neighborDistricts.slice(0, 4)) {
       const ndSlug = nd.toLowerCase().replace(/[^a-z0-9]/g, '-');
       combinations.push({
-        slug: `${ndSlug}-anal-yapan-oral`,
+        slug: `${ndSlug}-anal-oral`,
         label: lang === 'tr' ? `${nd} Anal ve Oral Escortlar` : `Anal & Oral Escorts in ${nd}`
       });
       combinations.push({
-        slug: `${ndSlug}-sarisin-genc-escortlar`,
+        slug: `${ndSlug}-young-blonde`,
         label: lang === 'tr' ? `${nd} Sar???n Gen? Escortlar` : `Young Blonde Escorts in ${nd}`
       });
     }
