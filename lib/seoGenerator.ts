@@ -1568,71 +1568,68 @@ export function generateBottomSeoArticle(
 
 export function getPopularCombinations(
   cityName: string,
-  lang: string = 'tr',
+  lang: string = 'en',
   citySlug?: string,
   districtKey?: string
 ): { slug: string; label: string }[] {
   const normCity = citySlug || cityName.toLowerCase().replace(/[^a-z0-9]/g, '-');
   const neighborDistricts = districtKey ? getNearbyDistrictNames(normCity, districtKey) : [];
-  const cityDistricts = getCityDistricts(normCity);
-
+  
   const prefix = districtKey ? `${districtKey}-` : '';
   const distLabel = districtKey ? `${districtKey.charAt(0).toUpperCase() + districtKey.slice(1)} ` : '';
+
+  const getLabel = (trLabel: string, enLabel: string, deLabel: string, nlLabel: string) => {
+    if (lang === 'tr') return `${distLabel}${cityName} ${trLabel}`;
+    if (lang === 'de') return `${enLabel} in ${distLabel}${cityName}`; // using EN labels for unsupported for now, or could map more
+    if (lang === 'nl') return `${nlLabel} in ${distLabel}${cityName}`;
+    return `${enLabel} in ${distLabel}${cityName}`; // default en
+  };
 
   const combinations = [
     {
       slug: `${prefix}anal-yapan-oral`,
-      label: `${distLabel}${cityName} Anal ve Oral Yapan Escortlar`
+      label: getLabel('Anal ve Oral Yapan Escortlar', 'Anal & Oral Escorts', 'Anal & Oral Escorts', 'Anale Seks Escorts')
     },
     {
       slug: `${prefix}sarisin-genc-anal`,
-      label: `${distLabel}${cityName} Genç Sarışın Anal Escortlar`
+      label: getLabel('Gen? Sar???n Anal Escortlar', 'Young Blonde Anal Escorts', 'Junge Blonde Anal Escorts', 'Jonge Blonde Anal Escorts')
     },
     {
       slug: `${prefix}eve-gelen-sarisin`,
-      label: `${distLabel}${cityName} Eve Gelen Sarışın Escortlar`
+      label: getLabel('Eve Gelen Sar???n Escortlar', 'Blonde Incall Escorts', 'Blonde Hausbesuch Escorts', 'Blonde Incall Escorts')
     },
     {
       slug: `${prefix}gece-kalan-rus-escortlar`,
-      label: `${distLabel}${cityName} Gece Kalan Rus Escortlar`
+      label: getLabel('Gece Kalan Rus Escortlar', 'Overnight Russian Escorts', 'Overnight Russische Escorts', 'Overnight Russische Escorts')
     },
     {
       slug: `${prefix}masaj-yapan-olgun`,
-      label: `${distLabel}${cityName} Masaj Yapan Olgun Escortlar`
+      label: getLabel('Masaj Yapan Olgun Escortlar', 'Mature Massage Escorts', 'Reife Massage Escorts', 'Rijpe Massage Escorts')
     },
     {
       slug: `${prefix}buyuk-gogus-otele-gelen`,
-      label: `${distLabel}${cityName} Büyük Göğüslü Otele Gelenler`
+      label: getLabel('B?y?k G???sl? Otele Gelenler', 'Busty Outcall Escorts', 'Vollbusige Outcall Escorts', 'Busty Outcall Escorts')
     },
     {
       slug: `${prefix}sevgili-tadinda-minyon`,
-      label: `${distLabel}${cityName} Sevgili Tadında Minyon Modeller`
+      label: getLabel('Sevgili Tad?nda Minyon Modeller', 'Petite GFE Models', 'Zierliche GFE Modelle', 'Petite GFE Modellen')
     },
     {
       slug: `${prefix}agza-bosalma-cim-anal`,
-      label: `${distLabel}${cityName} CIM ve Anal Yapan Escortlar`
+      label: getLabel('CIM ve Anal Yapan Escortlar', 'CIM & Anal Escorts', 'CIM & Anal Escorts', 'CIM & Anale Seks Escorts')
     }
   ];
 
-  // If we have neighbor districts, add direct links to them to build the proximity spiderweb
   if (neighborDistricts.length > 0) {
     for (const nd of neighborDistricts.slice(0, 4)) {
       const ndSlug = nd.toLowerCase().replace(/[^a-z0-9]/g, '-');
       combinations.push({
         slug: `${ndSlug}-anal-yapan-oral`,
-        label: `${nd} Anal ve Oral Escortlar`
+        label: lang === 'tr' ? `${nd} Anal ve Oral Escortlar` : `Anal & Oral Escorts in ${nd}`
       });
       combinations.push({
         slug: `${ndSlug}-sarisin-genc-escortlar`,
-        label: `${nd} Sarışın Genç Escortlar`
-      });
-    }
-  } else if (cityDistricts.length > 0) {
-    // Add top districts of the city
-    for (const d of cityDistricts.slice(0, 4)) {
-      combinations.push({
-        slug: `${d.key}-anal-yapan-oral`,
-        label: `${d.name} Anal ve Oral Escortlar`
+        label: lang === 'tr' ? `${nd} Sar???n Gen? Escortlar` : `Young Blonde Escorts in ${nd}`
       });
     }
   }
