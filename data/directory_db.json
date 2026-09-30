@@ -1,6 +1,6 @@
 {
   "total_cities": 818,
-  "total_profiles": 8653,
+  "total_profiles": 8659,
   "cities": [
     {
       "slug": "cambridge",
@@ -54178,8 +54178,76 @@
       "slug": "liege",
       "raw_slug": "liege-646",
       "name": "Liege",
-      "count": 61,
+      "count": 63,
       "profiles": [
+        {
+          "name": "Mlle",
+          "url": "https://www.quartier-rouge.be/escort/femmes/mlle-julia-100-belge-2.html",
+          "provider": "Quartier-Rouge Verified",
+          "badge": "★ VIP VERIFIED",
+          "hair": "black",
+          "body": "slim",
+          "age": 29,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall",
+            "massage",
+            "overnight"
+          ],
+          "nationality": "belgian",
+          "rates": {
+            "1h": 200,
+            "2h": 350,
+            "overnight": 900,
+            "currency": "EUR"
+          },
+          "rate_hourly": 200,
+          "photos": [
+            "/photos/liege/mlle/photo_1.jpg",
+            "/photos/liege/mlle/photo_2.avif",
+            "/photos/liege/mlle/photo_3.avif",
+            "/photos/liege/mlle/photo_4.jpg",
+            "/photos/liege/mlle/photo_5.avif",
+            "/photos/liege/mlle/photo_6.avif",
+            "/photos/liege/mlle/photo_7.avif",
+            "/photos/liege/mlle/photo_8.avif"
+          ]
+        },
+        {
+          "name": "Party",
+          "url": "https://www.quartier-rouge.be/escort/femmes/party-full-8.html",
+          "provider": "Quartier-Rouge Verified",
+          "badge": "★ VIP VERIFIED",
+          "hair": "brunette",
+          "body": "busty",
+          "age": 29,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall",
+            "massage",
+            "overnight"
+          ],
+          "nationality": "french",
+          "rates": {
+            "1h": 200,
+            "2h": 350,
+            "overnight": 900,
+            "currency": "EUR"
+          },
+          "rate_hourly": 200,
+          "photos": [
+            "/photos/liege/party/photo_1.jpg",
+            "/photos/liege/party/photo_2.avif",
+            "/photos/liege/party/photo_3.avif",
+            "/photos/liege/party/photo_4.jpg",
+            "/photos/liege/party/photo_5.avif",
+            "/photos/liege/party/photo_6.avif",
+            "/photos/liege/party/photo_7.avif",
+            "/photos/liege/party/photo_8.avif"
+          ]
+        },
         {
           "name": "Jessica",
           "url": "https://www.quartier-rouge.be/escort/femmes/jessica-new-in-your-city-4.html",
@@ -142602,8 +142670,139 @@
       "slug": "brussels",
       "raw_slug": "brussels-163",
       "name": "Brussels",
-      "count": 271,
+      "count": 275,
       "profiles": [
+        {
+          "name": "Esperanza",
+          "url": "https://www.quartier-rouge.be/escort/femmes/esperanza-18.html",
+          "provider": "Quartier-Rouge Verified",
+          "badge": "★ VIP VERIFIED",
+          "hair": "brunette",
+          "body": "slim",
+          "age": 28,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall",
+            "massage",
+            "overnight"
+          ],
+          "nationality": "belgian",
+          "rates": {
+            "1h": 200,
+            "2h": 350,
+            "overnight": 900,
+            "currency": "EUR"
+          },
+          "rate_hourly": 200,
+          "photos": [
+            "/photos/brussels/esperanza/photo_1.jpg",
+            "/photos/brussels/esperanza/photo_2.avif",
+            "/photos/brussels/esperanza/photo_3.avif",
+            "/photos/brussels/esperanza/photo_4.jpg"
+          ]
+        },
+        {
+          "name": "Isabelle",
+          "url": "https://www.quartier-rouge.be/escort/femmes/isabelle-chapelle-19.html",
+          "provider": "Quartier-Rouge Verified",
+          "badge": "★ VIP VERIFIED",
+          "hair": "blonde",
+          "body": "busty",
+          "age": 27,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall",
+            "massage",
+            "overnight"
+          ],
+          "nationality": "french",
+          "rates": {
+            "1h": 200,
+            "2h": 350,
+            "overnight": 900,
+            "currency": "EUR"
+          },
+          "rate_hourly": 200,
+          "photos": [
+            "/photos/brussels/isabelle/photo_1.jpg",
+            "/photos/brussels/isabelle/photo_2.avif",
+            "/photos/brussels/isabelle/photo_3.avif",
+            "/photos/brussels/isabelle/photo_4.jpg",
+            "/photos/brussels/isabelle/photo_5.avif",
+            "/photos/brussels/isabelle/photo_6.avif",
+            "/photos/brussels/isabelle/photo_7.avif",
+            "/photos/brussels/isabelle/photo_8.avif"
+          ]
+        },
+        {
+          "name": "Compagnie",
+          "url": "https://www.quartier-rouge.be/escort/femmes/compagnie-elegance.html",
+          "provider": "Quartier-Rouge Verified",
+          "badge": "★ VIP VERIFIED",
+          "hair": "black",
+          "body": "busty",
+          "age": 32,
+          "age_category": "mature",
+          "services": [
+            "hotel_outcall",
+            "incall",
+            "massage",
+            "overnight"
+          ],
+          "nationality": "belgian",
+          "rates": {
+            "1h": 200,
+            "2h": 350,
+            "overnight": 900,
+            "currency": "EUR"
+          },
+          "rate_hourly": 200,
+          "photos": [
+            "/photos/brussels/compagnie/photo_1.jpg",
+            "/photos/brussels/compagnie/photo_2.avif",
+            "/photos/brussels/compagnie/photo_3.avif",
+            "/photos/brussels/compagnie/photo_4.jpg",
+            "/photos/brussels/compagnie/photo_5.avif",
+            "/photos/brussels/compagnie/photo_6.avif",
+            "/photos/brussels/compagnie/photo_7.avif"
+          ]
+        },
+        {
+          "name": "No Rush 100 Pleasure",
+          "url": "https://www.quartier-rouge.be/escort/femmes/no-rush-100-pleasure.html",
+          "provider": "Quartier-Rouge Verified",
+          "badge": "★ VIP VERIFIED",
+          "hair": "black",
+          "body": "slim",
+          "age": 28,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall",
+            "massage",
+            "overnight"
+          ],
+          "nationality": "belgian",
+          "rates": {
+            "1h": 200,
+            "2h": 350,
+            "overnight": 900,
+            "currency": "EUR"
+          },
+          "rate_hourly": 200,
+          "photos": [
+            "/photos/brussels/no-rush-100-pleasure/photo_1.jpg",
+            "/photos/brussels/no-rush-100-pleasure/photo_2.avif",
+            "/photos/brussels/no-rush-100-pleasure/photo_3.avif",
+            "/photos/brussels/no-rush-100-pleasure/photo_4.jpg",
+            "/photos/brussels/no-rush-100-pleasure/photo_5.avif",
+            "/photos/brussels/no-rush-100-pleasure/photo_6.avif",
+            "/photos/brussels/no-rush-100-pleasure/photo_7.avif",
+            "/photos/brussels/no-rush-100-pleasure/photo_8.avif"
+          ]
+        },
         {
           "name": "Reine",
           "url": "https://www.quartier-rouge.be/escort/femmes/reine-du-sexe-oral.html",
@@ -148181,7 +148380,9 @@
             "/photos/brussels/disponible/photo_5.avif",
             "/photos/brussels/disponible/photo_6.avif",
             "/photos/brussels/disponible/photo_7.avif",
-            "/photos/brussels/disponible/photo_8.avif"
+            "/photos/brussels/disponible/photo_8.avif",
+            "/photos/brussels/disponible/photo_2.jpg",
+            "/photos/brussels/disponible/photo_3.jpg"
           ]
         },
         {
