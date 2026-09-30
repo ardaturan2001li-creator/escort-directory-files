@@ -45,6 +45,7 @@ export function getGroupedCountriesWithCities(): CountryGroup[] {
     cities.sort((a, b) => b.count - a.count || a.name.localeCompare(b.name));
     return {
       country: co,
+      slug: slugify(co),
       label: COUNTRY_LABELS[co] || { tr: co, en: co, de: co, nl: co },
       totalModels: cities.reduce((sum, x) => sum + x.count, 0),
       cities
@@ -58,4 +59,8 @@ export function getGroupedCountriesWithCities(): CountryGroup[] {
   });
 
   return result;
+}
+
+export function slugify(text: string) {
+  return text.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
 }
