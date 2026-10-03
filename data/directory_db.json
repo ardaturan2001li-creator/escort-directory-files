@@ -1,6 +1,6 @@
 {
   "total_cities": 818,
-  "total_profiles": 8660,
+  "total_profiles": 8795,
   "cities": [
     {
       "slug": "cambridge",
@@ -242388,8 +242388,37 @@
       "slug": "birmingham",
       "raw_slug": "birmingham-247",
       "name": "Birmingham",
-      "count": 21,
+      "count": 22,
       "profiles": [
+        {
+          "name": "Sweetest",
+          "url": "https://www.escortguide.co.uk/escort/Sweetest-270979",
+          "provider": "EscortGuide UK Verified",
+          "badge": "★ VIP VERIFIED",
+          "hair": "brunette",
+          "body": "slim",
+          "age": 31,
+          "age_category": "mature",
+          "services": [
+            "hotel_outcall",
+            "incall",
+            "massage",
+            "overnight"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 250,
+            "2h": 450,
+            "overnight": 1100,
+            "currency": "EUR"
+          },
+          "rate_hourly": 250,
+          "photos": [
+            "/photos/birmingham/sweetest/photo_1.jpg",
+            "/photos/birmingham/sweetest/photo_2.jpg",
+            "/photos/birmingham/sweetest/photo_3.jpg"
+          ]
+        },
         {
           "name": "Sexy_Samantha",
           "url": "https://www.escortguide.co.uk/escort/Sexy_Samantha-226600",
