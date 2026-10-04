@@ -50,7 +50,7 @@ export default function CityDirectory({ cities, lang }: Props) {
 
     // Country Filter
     if (selectedCountry !== 'ALL') {
-      result = result.filter((c) => c.country === selectedCountry);
+      result = result.filter((c) => c.country && c.country.trim().toLowerCase() === selectedCountry.trim().toLowerCase());
     }
 
     // Alphabet Filter
