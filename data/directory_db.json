@@ -1,13 +1,51 @@
 {
   "total_cities": 818,
-  "total_profiles": 1151,
+  "total_profiles": 1213,
   "cities": [
     {
       "slug": "cambridge",
       "raw_slug": "cambridge-486",
       "name": "Cambridge",
-      "count": 0,
-      "profiles": [],
+      "count": 1,
+      "profiles": [
+        {
+          "name": "Escort",
+          "url": "https://www.escortguide.co.uk/escort/Sofie Jenkins-268492",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "brunette",
+          "body": "curvy",
+          "age": 32,
+          "age_category": "mature",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 300,
+            "2h": 540,
+            "overnight": 1500,
+            "currency": "GBP"
+          },
+          "rate_hourly": 300,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/8492/6c00853c18acf42fae571dcc47b66b37_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/8492/ede8605ddf3bfc45ad51570dc6b7bf01_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/8492/5c3384d31d91eae5b1373752c223a7de_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/8492/9736b16ddc0a52a37690029fbca85e3a_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/8492/3f2699e63b46536eeacb3a864880bc72_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/8492/d704b6da9517cf065a2d1bfe5e24d418_orig.jpg",
+            "/photos/cambridge/escort/photo_1.jpg",
+            "/photos/cambridge/escort/photo_3.jpg",
+            "/photos/cambridge/escort/photo_4.jpg",
+            "/photos/cambridge/escort/photo_5.jpg",
+            "/photos/cambridge/escort/photo_6.jpg",
+            "/photos/cambridge/escort/photo_7.jpg",
+            "/photos/cambridge/escort/photo_8.jpg"
+          ]
+        }
+      ],
       "country": "United Kingdom"
     },
     {
@@ -6050,8 +6088,69 @@
       "slug": "hull",
       "raw_slug": "hull-1670",
       "name": "Hull",
-      "count": 0,
-      "profiles": [],
+      "count": 2,
+      "profiles": [
+        {
+          "name": "Emmixx",
+          "url": "https://www.escortguide.co.uk/escort/Emmixx-215274",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "blonde",
+          "body": "slim",
+          "age": 21,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 400,
+            "2h": 720,
+            "overnight": 2000,
+            "currency": "GBP"
+          },
+          "rate_hourly": 400,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/21/5274/2333b64119b5302b71f6348aa45623f4_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/21/5274/1ffd3749def6dc2705c01460d066ac79_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/21/5274/50c543df5a5c826c70fa8e38e66b9648_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/21/5274/2333b64119b5302b71f6348aa45623f4_pl.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/21/5274/1ffd3749def6dc2705c01460d066ac79_pl.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/21/5274/50c543df5a5c826c70fa8e38e66b9648_pp_v2.jpg"
+          ]
+        },
+        {
+          "name": "Yourmistress",
+          "url": "https://www.escortguide.co.uk/escort/YourMistress-195389",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "blonde",
+          "body": "curvy",
+          "age": 24,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 300,
+            "2h": 540,
+            "overnight": 1500,
+            "currency": "GBP"
+          },
+          "rate_hourly": 300,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/19/5389/d9936fcce7e6f57bdc00ee9e75b2cd88_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/19/5389/5441563267772a3d7b4041ec5cc11e47_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/19/5389/4413f56c9acf5417491f507fea2bc6ae_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/19/5389/d9936fcce7e6f57bdc00ee9e75b2cd88_pp_v2.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/19/5389/5441563267772a3d7b4041ec5cc11e47_pp_v2.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/19/5389/4413f56c9acf5417491f507fea2bc6ae_pp_v2.jpg"
+          ]
+        }
+      ],
       "country": "Other International"
     },
     {
@@ -17195,8 +17294,39 @@
       "slug": "peterborough",
       "raw_slug": "peterborough-2089",
       "name": "Peterborough",
-      "count": 0,
-      "profiles": [],
+      "count": 1,
+      "profiles": [
+        {
+          "name": "Escort",
+          "url": "https://www.escortguide.co.uk/escort/Mistress Anna-214381",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "brunette",
+          "body": "curvy",
+          "age": 27,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 400,
+            "2h": 720,
+            "overnight": 2000,
+            "currency": "GBP"
+          },
+          "rate_hourly": 400,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/21/4381/ccd94efa4105090fa28daed07adda07a_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/21/4381/61d51da470f0ca536d81dbf17d6c671d_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/21/4381/de26705929dc12729c914177605615cc_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/21/4381/8901b2345831e6fc30de5650e6197ff2_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/21/4381/8ddc81e959f46cdd23791d40a180a4ce_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/21/4381/664a60c2b4082f2d5da5de28e0dbdffe_orig.jpg"
+          ]
+        }
+      ],
       "country": "United Kingdom"
     },
     {
@@ -17587,8 +17717,166 @@
       "slug": "essex",
       "raw_slug": "essex-2166",
       "name": "Essex",
-      "count": 0,
-      "profiles": [],
+      "count": 5,
+      "profiles": [
+        {
+          "name": "Leah",
+          "url": "https://www.escortguide.co.uk/escort/Leah-229145",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "blonde",
+          "body": "slim",
+          "age": 25,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 250,
+            "2h": 450,
+            "overnight": 1250,
+            "currency": "GBP"
+          },
+          "rate_hourly": 250,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/22/9145/1350bc9f62d00b8e7f2f0380cd544866_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/22/9145/0812b5e1d319da91dbdc18392df5beaa_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/22/9145/9e8a66c2b92aced1b504b33b8be801fa_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/22/9145/4c3a1c42b12b8cc349c39790ce9bb47c_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/22/9145/b58c12dea3ceff744c684eec9f27c6cc_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/22/9145/0079f0172c003a91afc6ce3a32e11822_orig.jpg"
+          ]
+        },
+        {
+          "name": "Tara",
+          "url": "https://www.escortguide.co.uk/escort/Tara-267315",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "blonde",
+          "body": "curvy",
+          "age": 30,
+          "age_category": "mature",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 200,
+            "2h": 360,
+            "overnight": 1000,
+            "currency": "GBP"
+          },
+          "rate_hourly": 200,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/7315/b476a17ac9e743c6fbc881568013e958_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/7315/21e4eae7105d17015909a06d3ae062e0_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/7315/d6bbd222410e641410114de16796d053_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/7315/b476a17ac9e743c6fbc881568013e958_pp_v2.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/7315/21e4eae7105d17015909a06d3ae062e0_pp_v2.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/7315/d6bbd222410e641410114de16796d053_pp_v2.jpeg"
+          ]
+        },
+        {
+          "name": "Adel",
+          "url": "https://www.escortguide.co.uk/escort/Adel-260338",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "brunette",
+          "body": "slim",
+          "age": 27,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 400,
+            "2h": 720,
+            "overnight": 2000,
+            "currency": "GBP"
+          },
+          "rate_hourly": 400,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/0338/05f1ba23dc777f381dee5a15f377b865_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/0338/bb71d21ee9447c4a1ef46a72be5c5ad0_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/0338/e6ceb473b68b7e1ea499deac4b15fb37_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/0338/3af447e029288ff0e43dffb3fe7aadb3_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/0338/05f1ba23dc777f381dee5a15f377b865_pp_v2.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/0338/bb71d21ee9447c4a1ef46a72be5c5ad0_pl.jpg"
+          ]
+        },
+        {
+          "name": "Escort",
+          "url": "https://www.escortguide.co.uk/escort/Merry good time CO15-269681",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "blonde",
+          "body": "curvy",
+          "age": 21,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 300,
+            "2h": 540,
+            "overnight": 1500,
+            "currency": "GBP"
+          },
+          "rate_hourly": 300,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/9681/a97cfe55be62f14efc669c252deb26ae_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/9681/e3f56b4b79301203540b286f2c975fb6_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/9681/00072341944d1658e00551e8f67f7144_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/9681/edfe91df8ef3a7ccc9e0912f82e59989_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/9681/a6b43dbea3de4d58a4d7cc5f608a81a7_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/9681/22dd40879e17bd5f699731517b9665b2_orig.jpeg",
+            "/photos/essex/escort/photo_1.jpg",
+            "/photos/essex/escort/photo_3.jpg",
+            "/photos/essex/escort/photo_4.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/0391/b7e0eaaf5c217bec4ba2eb7cf0dc0929_orig.png",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/0391/e0ec68544cc4882748d61e80bf9c4a14_orig.png",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/0391/f33078ee3aec1563d946f270521f5aa3_orig.png",
+            "/photos/essex/escort/photo_8.jpg"
+          ]
+        },
+        {
+          "name": "Bella",
+          "url": "https://www.escortguide.co.uk/escort/Bella-259370",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "brunette",
+          "body": "slim",
+          "age": 25,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 300,
+            "2h": 540,
+            "overnight": 1500,
+            "currency": "GBP"
+          },
+          "rate_hourly": 300,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/25/9370/669e5d0ba22204fa65edd3dccad165e1_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/25/9370/4e62242b987886119a916402d12b1d27_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/25/9370/3bbf6eb7b285ca571d020dad94828a68_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/25/9370/9647a7b9571ced25079a9f041539d031_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/25/9370/63f560840c5a68e18b47eee05375c1de_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/25/9370/669e5d0ba22204fa65edd3dccad165e1_pp_v2.jpeg"
+          ]
+        }
+      ],
       "country": "Other International"
     },
     {
@@ -33812,8 +34100,99 @@
       "slug": "leicester",
       "raw_slug": "leicester-257",
       "name": "Leicester",
-      "count": 0,
-      "profiles": [],
+      "count": 3,
+      "profiles": [
+        {
+          "name": "Ann",
+          "url": "https://www.escortguide.co.uk/escort/Ann-212766",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "blonde",
+          "body": "curvy",
+          "age": 21,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 300,
+            "2h": 540,
+            "overnight": 1500,
+            "currency": "GBP"
+          },
+          "rate_hourly": 300,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/21/2766/c116d9719e185f60d4eabb3db71111ab_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/21/2766/ed3d2e9d6bfd3b733fd37248f9b01b49_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/21/2766/fdd1d8551c9ad6529a7a1efd31b82127_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/21/2766/25afd52019f26f2d0226fd31c9c39715_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/21/2766/66e61c0a3e5e5829e931793fe7e5cd71_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/21/2766/10a881d0d41d5180fbbd55e47cdc279a_orig.jpg"
+          ]
+        },
+        {
+          "name": "Mistresseliana",
+          "url": "https://www.escortguide.co.uk/escort/Mistresseliana-269412",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "blonde",
+          "body": "curvy",
+          "age": 27,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 200,
+            "2h": 360,
+            "overnight": 1000,
+            "currency": "GBP"
+          },
+          "rate_hourly": 200,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/9412/c8ba79fedba8321d07e5976b0397fa79_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/9412/fa6a75517acdb13bd2f5aa2ee47329a9_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/9412/e0ce77b82d52750f0fa074188f8fec96_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/9412/b0eb1c42dde5d192d7b93386d7d47a04_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/9412/93134d69d66ed0d1e8ff0fd4e9afd777_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/9412/df2d2ebac69dd7a36ccf3977393653f9_orig.jpg"
+          ]
+        },
+        {
+          "name": "Aleza",
+          "url": "https://www.escortguide.co.uk/escort/Aleza-268499",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "blonde",
+          "body": "slim",
+          "age": 21,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 400,
+            "2h": 720,
+            "overnight": 2000,
+            "currency": "GBP"
+          },
+          "rate_hourly": 400,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/8499/39a944db18a1a5daa465dfca6c64d8f7_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/8499/383dcab64d71f1a0f79d5b22e7d17aa8_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/8499/8600465af3af4b2f34b2fc5f66290a1e_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/8499/39a944db18a1a5daa465dfca6c64d8f7_pl.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/8499/383dcab64d71f1a0f79d5b22e7d17aa8_pl.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/8499/8600465af3af4b2f34b2fc5f66290a1e_pl.jpeg"
+          ]
+        }
+      ],
       "country": "United Kingdom"
     },
     {
@@ -34116,8 +34495,106 @@
       "slug": "aylesbury",
       "raw_slug": "aylesbury-556",
       "name": "Aylesbury",
-      "count": 0,
-      "profiles": [],
+      "count": 3,
+      "profiles": [
+        {
+          "name": "Yasmina",
+          "url": "https://www.escortguide.co.uk/escort/yasmina-228238",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "brunette",
+          "body": "slim",
+          "age": 29,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 200,
+            "2h": 360,
+            "overnight": 1000,
+            "currency": "GBP"
+          },
+          "rate_hourly": 200,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/22/8238/85ebabe69e82f7878d32fbecc6a479e8_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/22/8238/afd24bc46c21e7b9f21469b06249efcd_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/22/8238/e19d4ec88c2af948d0e0b29e16d4be1a_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/22/8238/85ebabe69e82f7878d32fbecc6a479e8_pp_v2.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/22/8238/afd24bc46c21e7b9f21469b06249efcd_pp_v2.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/22/8238/e19d4ec88c2af948d0e0b29e16d4be1a_pp_v2.jpg"
+          ]
+        },
+        {
+          "name": "Escort",
+          "url": "https://www.escortguide.co.uk/escort/Anne Marck-269352",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "blonde",
+          "body": "curvy",
+          "age": 24,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 400,
+            "2h": 720,
+            "overnight": 2000,
+            "currency": "GBP"
+          },
+          "rate_hourly": 400,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/9352/a9f7abc6bd69e8432001f1d7bc251ebb_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/9352/89fe94ce4a1981ddaf77aa851e93e127_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/9352/9666324b7d4946758e448f44fd607010_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/9352/a9f7abc6bd69e8432001f1d7bc251ebb_pp_v2.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/9352/89fe94ce4a1981ddaf77aa851e93e127_pp_v2.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/9352/9666324b7d4946758e448f44fd607010_pl.jpeg",
+            "/photos/aylesbury/escort/photo_1.jpg",
+            "/photos/aylesbury/escort/photo_3.jpg",
+            "/photos/aylesbury/escort/photo_4.jpg",
+            "/photos/aylesbury/escort/photo_5.jpg",
+            "/photos/aylesbury/escort/photo_6.jpg",
+            "/photos/aylesbury/escort/photo_7.jpg",
+            "/photos/aylesbury/escort/photo_8.jpg"
+          ]
+        },
+        {
+          "name": "Lola",
+          "url": "https://www.escortguide.co.uk/escort/Lola-250765",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "blonde",
+          "body": "curvy",
+          "age": 20,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 250,
+            "2h": 450,
+            "overnight": 1250,
+            "currency": "GBP"
+          },
+          "rate_hourly": 250,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/25/0765/7f36d666eb1345eb6e577d7ec9680db7_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/25/0765/a7e82d6a472cafd76df300c5dc25ce1f_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/25/0765/6352a68a87a84a4f4976edc479478d32_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/25/0765/842b98a19436a8a6872a973053249a7a_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/25/0765/d47c88763b39ceab5f65a30344096eab_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/25/0765/9aab881f1690fed53ffa794d9867e6e3_orig.jpeg"
+          ]
+        }
+      ],
       "country": "Other International"
     },
     {
@@ -34172,16 +34649,235 @@
       "slug": "bournemouth",
       "raw_slug": "bournemouth-248",
       "name": "Bournemouth",
-      "count": 0,
-      "profiles": [],
+      "count": 4,
+      "profiles": [
+        {
+          "name": "Aubreyyy",
+          "url": "https://www.escortguide.co.uk/escort/Aubreyyy-265969",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "brunette",
+          "body": "curvy",
+          "age": 22,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 200,
+            "2h": 360,
+            "overnight": 1000,
+            "currency": "GBP"
+          },
+          "rate_hourly": 200,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/5969/a6564c76f42d315c280cf1fbcdd319a2_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/5969/66e6555b1d717ef4249d6a0cad0d539f_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/5969/038948bfb1db9ce3cafe67c0c6926f81_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/5969/c548e7dd527bac49e5211c7a90177e6b_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/5969/a6564c76f42d315c280cf1fbcdd319a2_pp_v2.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/5969/66e6555b1d717ef4249d6a0cad0d539f_pp_v2.jpg"
+          ]
+        },
+        {
+          "name": "Escort",
+          "url": "https://www.escortguide.co.uk/escort/Playgirl Pamela-188523",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "blonde",
+          "body": "slim",
+          "age": 27,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 200,
+            "2h": 360,
+            "overnight": 1000,
+            "currency": "GBP"
+          },
+          "rate_hourly": 200,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/18/8523/1fc07199247d7a7e7ee634e1a127766f_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/18/8523/2ede48f8e6951b499d25adc0372fc3b3_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/18/8523/621dc55a99a63937547ab1f2269ecc9b_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/18/8523/b8c442ad53a2668382a5c9b463529e76_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/18/8523/17756a52c2c924cf9f77c13e23c30368_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/18/8523/912405b2880a1a6c9855d5860617a562_orig.jpg",
+            "/photos/bournemouth/escort/photo_1.jpg",
+            "/photos/bournemouth/escort/photo_3.jpg",
+            "/photos/bournemouth/escort/photo_4.jpg",
+            "/photos/bournemouth/escort/photo_5.jpg",
+            "/photos/bournemouth/escort/photo_6.jpg",
+            "/photos/bournemouth/escort/photo_7.jpg",
+            "/photos/bournemouth/escort/photo_8.jpg"
+          ]
+        },
+        {
+          "name": "Mistresslaura",
+          "url": "https://www.escortguide.co.uk/escort/Mistresslaura-258265",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "brunette",
+          "body": "slim",
+          "age": 27,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 400,
+            "2h": 720,
+            "overnight": 2000,
+            "currency": "GBP"
+          },
+          "rate_hourly": 400,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/25/8265/3b303b2a481ff9b4f8ad984655de5af5_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/25/8265/9e2ea6373510cb74c153a57c60dcd937_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/25/8265/fe98d0c6b0cad6b9266b5efa00a645d6_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/25/8265/4f452f95491a77f7d924ee6483d66b20_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/25/8265/3b303b2a481ff9b4f8ad984655de5af5_pp_v2.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/25/8265/9e2ea6373510cb74c153a57c60dcd937_pp_v2.jpg"
+          ]
+        },
+        {
+          "name": "Lucky Laura",
+          "url": "https://www.escortguide.co.uk/escort/Lucky-Laura-247968",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "brunette",
+          "body": "slim",
+          "age": 18,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 200,
+            "2h": 360,
+            "overnight": 1000,
+            "currency": "GBP"
+          },
+          "rate_hourly": 200,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/24/7968/bf41806ea272622ee8d9c7be06f83872_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/24/7968/e79a0ebf7b76e061198701edc7f5df95_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/24/7968/5078843ed2bf62003db7df023a0d0a69_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/24/7968/ce49c0349898ce11932c2c0f0466a0ed_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/24/7968/9a5b35a019e3ea1aef6e2dedda08743a_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/24/7968/d080aca7d93bd1fd9bfd33f830c2f590_orig.png"
+          ]
+        }
+      ],
       "country": "United Kingdom"
     },
     {
       "slug": "brighton",
       "raw_slug": "brighton-495",
       "name": "Brighton",
-      "count": 0,
-      "profiles": [],
+      "count": 3,
+      "profiles": [
+        {
+          "name": "Escort",
+          "url": "https://www.escortguide.co.uk/escort/Elegant_Katy-226563",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "blonde",
+          "body": "slim",
+          "age": 19,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 300,
+            "2h": 540,
+            "overnight": 1500,
+            "currency": "GBP"
+          },
+          "rate_hourly": 300,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/22/6563/ccc24a93f13f669c3bde3642385ab15e_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/22/6563/27834f62cf347ee424ae1a7672b91cd5_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/22/6563/590e120931af703818e60be9d16ef35c_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/22/6563/ccc24a93f13f669c3bde3642385ab15e_pp_v2.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/22/6563/27834f62cf347ee424ae1a7672b91cd5_pp_v2.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/22/6563/590e120931af703818e60be9d16ef35c_pp_v2.jpg"
+          ]
+        },
+        {
+          "name": "Lorena",
+          "url": "https://www.escortguide.co.uk/escort/Lorena-248173",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "blonde",
+          "body": "slim",
+          "age": 21,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 200,
+            "2h": 360,
+            "overnight": 1000,
+            "currency": "GBP"
+          },
+          "rate_hourly": 200,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/24/8173/3cb2066da6d12aead7d944e3e500919c_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/24/8173/5c283b5ac63a9805fb7a9833dea050a2_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/24/8173/728a06cde203744abb9bdacc38524a3d_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/24/8173/3cb2066da6d12aead7d944e3e500919c_pp_v2.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/24/8173/5c283b5ac63a9805fb7a9833dea050a2_pp_v2.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/24/8173/728a06cde203744abb9bdacc38524a3d_pp_v2.jpg"
+          ]
+        },
+        {
+          "name": "Lizzyloo",
+          "url": "https://www.escortguide.co.uk/escort/lizzyloo-217198",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "blonde",
+          "body": "curvy",
+          "age": 21,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 200,
+            "2h": 360,
+            "overnight": 1000,
+            "currency": "GBP"
+          },
+          "rate_hourly": 200,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/21/7198/772b12285aa99d8b17fd62bd7165964e_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/21/7198/5dc0d29f2c1b0da51b58c48d00497315_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/21/7198/5d5dbaccdff35311a89e4c72ffa5090f_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/21/7198/8811367d4fc069a94077a0c9f76bb696_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/21/7198/772b12285aa99d8b17fd62bd7165964e_pp_v2.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/21/7198/5dc0d29f2c1b0da51b58c48d00497315_pl.jpg"
+          ]
+        }
+      ],
       "country": "United Kingdom"
     },
     {
@@ -34220,8 +34916,39 @@
       "slug": "chester",
       "raw_slug": "chester-338",
       "name": "Chester",
-      "count": 0,
-      "profiles": [],
+      "count": 1,
+      "profiles": [
+        {
+          "name": "Escort",
+          "url": "https://www.escortguide.co.uk/escort/Felicity Tit Wank-229550",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "brunette",
+          "body": "slim",
+          "age": 23,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 300,
+            "2h": 540,
+            "overnight": 1500,
+            "currency": "GBP"
+          },
+          "rate_hourly": 300,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/22/9550/35a468b1eec7f553c2824ec2be9d3a28_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/22/9550/b68463f60c08ec9a12e1d829f8b69f3a_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/22/9550/d024f92540e5f33064441b89e9b5d1cd_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/22/9550/35a468b1eec7f553c2824ec2be9d3a28_pp_v2.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/22/9550/b68463f60c08ec9a12e1d829f8b69f3a_pp_v2.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/22/9550/d024f92540e5f33064441b89e9b5d1cd_pl.jpg"
+          ]
+        }
+      ],
       "country": "United Kingdom"
     },
     {
@@ -34244,8 +34971,76 @@
       "slug": "derby",
       "raw_slug": "derby-446",
       "name": "Derby",
-      "count": 0,
-      "profiles": [],
+      "count": 2,
+      "profiles": [
+        {
+          "name": "Ariel",
+          "url": "https://www.escortguide.co.uk/escort/Ariel-200402",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "blonde",
+          "body": "curvy",
+          "age": 18,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 300,
+            "2h": 540,
+            "overnight": 1500,
+            "currency": "GBP"
+          },
+          "rate_hourly": 300,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/20/0402/d5fb6bc0b3c502a95b53ffc17d6d201f_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/20/0402/2a6937a5c771de0419d3e11c9d27d21f_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/20/0402/2a272f62e216b6d073893637bc71a785_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/20/0402/c50afb76c87b47954f2e0266a5f3d07e_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/20/0402/d5fb6bc0b3c502a95b53ffc17d6d201f_pl.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/20/0402/2a6937a5c771de0419d3e11c9d27d21f_pl.jpg"
+          ]
+        },
+        {
+          "name": "Escort",
+          "url": "https://www.escortguide.co.uk/escort/Scarlett Elite-255715",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "blonde",
+          "body": "slim",
+          "age": 19,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 250,
+            "2h": 450,
+            "overnight": 1250,
+            "currency": "GBP"
+          },
+          "rate_hourly": 250,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/25/5715/69920fe2dba876d593d5033a76d468c8_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/25/5715/0115f5319c4af6a8e110976bdb2b7ac4_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/25/5715/0c7689587fbaa0969f40008c3d2cbeeb_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/25/5715/69920fe2dba876d593d5033a76d468c8_pp_v2.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/25/5715/0115f5319c4af6a8e110976bdb2b7ac4_pp_v2.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/25/5715/0c7689587fbaa0969f40008c3d2cbeeb_pp_v2.jpg",
+            "/photos/derby/escort/photo_1.jpg",
+            "/photos/derby/escort/photo_3.jpg",
+            "/photos/derby/escort/photo_4.jpg",
+            "/photos/derby/escort/photo_5.jpg",
+            "/photos/derby/escort/photo_6.jpg",
+            "/photos/derby/escort/photo_7.jpg",
+            "/photos/derby/escort/photo_8.jpg"
+          ]
+        }
+      ],
       "country": "United Kingdom"
     },
     {
@@ -34428,8 +35223,39 @@
       "slug": "maidstone",
       "raw_slug": "maidstone-2845",
       "name": "Maidstone",
-      "count": 0,
-      "profiles": [],
+      "count": 1,
+      "profiles": [
+        {
+          "name": "Escort",
+          "url": "https://www.escortguide.co.uk/escort/Carly G-227315",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "brunette",
+          "body": "slim",
+          "age": 28,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 200,
+            "2h": 360,
+            "overnight": 1000,
+            "currency": "GBP"
+          },
+          "rate_hourly": 200,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/22/7315/180acd6c8dc788bf272d8863957b81af_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/22/7315/859455930ccaeb7db8afaf6a7c265066_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/22/7315/84a3e5e93a9ee659ee9ea962f296904a_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/22/7315/bf110ed42d88e2c6c90853198b26c547_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/22/7315/bf4cefae684a23da77e2a7176bcad217_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/22/7315/99ec4f993ab772e7d0ec34a49dfb7bb9_orig.jpg"
+          ]
+        }
+      ],
       "country": "Other International"
     },
     {
@@ -35246,8 +36072,39 @@
       "slug": "newcastle",
       "raw_slug": "newcastle-383",
       "name": "Newcastle",
-      "count": 0,
-      "profiles": [],
+      "count": 1,
+      "profiles": [
+        {
+          "name": "Isabela",
+          "url": "https://www.escortguide.co.uk/escort/Isabela-269067",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "brunette",
+          "body": "slim",
+          "age": 32,
+          "age_category": "mature",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 200,
+            "2h": 360,
+            "overnight": 1000,
+            "currency": "GBP"
+          },
+          "rate_hourly": 200,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/9067/ecb8af1c24a720ca05f6f1c7a195ad40_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/9067/fb903ea27844b97f959ba21d7521707d_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/9067/e0f8fa8dbd5fd486b3b3ffb52cc5b578_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/9067/c65b7863bc07337163c54b3be811ab66_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/9067/943780fade581e0f3dda373b844d2587_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/9067/c45cf73a03d7fc12ceba10c0522addbf_orig.jpg"
+          ]
+        }
+      ],
       "country": "United Kingdom"
     },
     {
@@ -35342,8 +36199,159 @@
       "slug": "barnsley",
       "raw_slug": "barnsley-544",
       "name": "Barnsley",
-      "count": 0,
-      "profiles": [],
+      "count": 5,
+      "profiles": [
+        {
+          "name": "Barnsleysmissjolene",
+          "url": "https://www.escortguide.co.uk/escort/BarnsleysMissJolene-228240",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "blonde",
+          "body": "slim",
+          "age": 32,
+          "age_category": "mature",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 300,
+            "2h": 540,
+            "overnight": 1500,
+            "currency": "GBP"
+          },
+          "rate_hourly": 300,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/22/8240/ee8aab034e490f0b83b5bb2d1993eaac_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/22/8240/d3dc51c263e0d40a7ab6ecc76fc14eaa_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/22/8240/8d59df1f4d16bfde026719439fa4bee8_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/22/8240/3640300b2e8b6ae28c552f088efb0426_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/22/8240/56663e2b5e04ba44170f07d2332c1286_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/22/8240/ee8aab034e490f0b83b5bb2d1993eaac_pl.jpg"
+          ]
+        },
+        {
+          "name": "Antoniaev",
+          "url": "https://www.escortguide.co.uk/escort/AntoniaEv-268588",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "blonde",
+          "body": "curvy",
+          "age": 31,
+          "age_category": "mature",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 400,
+            "2h": 720,
+            "overnight": 2000,
+            "currency": "GBP"
+          },
+          "rate_hourly": 400,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/8588/87f7148db3883a3551a35aaa399067ee_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/8588/9e6d6ff1b1ce98461319765ca273b1b0_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/8588/71ab2533389f5c626ef54b5d61c9674d_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/8588/87f7148db3883a3551a35aaa399067ee_pp_v2.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/8588/9e6d6ff1b1ce98461319765ca273b1b0_pl.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/8588/71ab2533389f5c626ef54b5d61c9674d_pp_v2.jpg"
+          ]
+        },
+        {
+          "name": "Brook Xox",
+          "url": "https://www.escortguide.co.uk/escort/Brook-XoX-253620",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "brunette",
+          "body": "curvy",
+          "age": 30,
+          "age_category": "mature",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 200,
+            "2h": 360,
+            "overnight": 1000,
+            "currency": "GBP"
+          },
+          "rate_hourly": 200,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/25/3620/99c600c46245839502448c9d0c4f5b89_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/25/3620/6f3d967160c237431be512cf9718553d_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/25/3620/fd2c46931f3e344b4cfaf1d048623509_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/25/3620/69086fb3fe20acad1152719dac076b41_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/25/3620/a0b468e0f4f92fb58b0c3e924267ca02_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/25/3620/99c600c46245839502448c9d0c4f5b89_pp_v2.jpeg"
+          ]
+        },
+        {
+          "name": "Anitta",
+          "url": "https://www.escortguide.co.uk/escort/Anitta-268589",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "blonde",
+          "body": "curvy",
+          "age": 27,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 400,
+            "2h": 720,
+            "overnight": 2000,
+            "currency": "GBP"
+          },
+          "rate_hourly": 400,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/8589/bedaa9108051b46eaf98f068d31eb05e_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/8589/0f15d04bf61cb3f38d70ae795dab3e0a_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/8589/17308beacc3f269729df6416ab6b2064_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/8589/bedaa9108051b46eaf98f068d31eb05e_pl.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/8589/0f15d04bf61cb3f38d70ae795dab3e0a_pp_v2.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/8589/17308beacc3f269729df6416ab6b2064_pp_v2.jpg"
+          ]
+        },
+        {
+          "name": "Ellyeelly",
+          "url": "https://www.escortguide.co.uk/escort/EllyeElly-249979",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "brunette",
+          "body": "curvy",
+          "age": 20,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 300,
+            "2h": 540,
+            "overnight": 1500,
+            "currency": "GBP"
+          },
+          "rate_hourly": 300,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/24/9979/fc739cb5ad332b1b644e608f176cb9af_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/24/9979/9fa69a1be8959629fff08c8a4eb5fa91_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/24/9979/857c939bb3c9d26664ac89caf03a906f_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/24/9979/6ffa343b3fd9e0c593c702de120c3367_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/24/9979/fc739cb5ad332b1b644e608f176cb9af_pl.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/24/9979/9fa69a1be8959629fff08c8a4eb5fa91_pp_v2.jpg"
+          ]
+        }
+      ],
       "country": "Other International"
     },
     {
@@ -35358,8 +36366,106 @@
       "slug": "coventry",
       "raw_slug": "coventry-512",
       "name": "Coventry",
-      "count": 0,
-      "profiles": [],
+      "count": 3,
+      "profiles": [
+        {
+          "name": "Ebonylisa",
+          "url": "https://www.escortguide.co.uk/escort/EbonyLisa-264200",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "brunette",
+          "body": "curvy",
+          "age": 19,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 200,
+            "2h": 360,
+            "overnight": 1000,
+            "currency": "GBP"
+          },
+          "rate_hourly": 200,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/4200/81c98f130279542cc36f5d290d21ce7b_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/4200/bf561009fd77e274092304a7ef46137f_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/4200/9576974f7aec201c96c1b0665601aa3d_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/4200/81c98f130279542cc36f5d290d21ce7b_pl.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/4200/bf561009fd77e274092304a7ef46137f_pp_v2.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/4200/9576974f7aec201c96c1b0665601aa3d_pl.jpg"
+          ]
+        },
+        {
+          "name": "Escort",
+          "url": "https://www.escortguide.co.uk/escort/BiSara - Leicester-186249",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "blonde",
+          "body": "curvy",
+          "age": 29,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 400,
+            "2h": 720,
+            "overnight": 2000,
+            "currency": "GBP"
+          },
+          "rate_hourly": 400,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/18/6249/d2cd9d124cbbae45a317e5b18fc49583_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/18/6249/0bf9713b5d3f397d4cece822fc9aad43_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/18/6249/1c4900cb4f019965d1b25523d4f8cc06_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/18/6249/c93e1ea02343e9b9f466a246ee7f2e06_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/18/6249/015bc49b72eca692a759f90910a2777b_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/18/6249/9fc479578dbcc52fb9c6d1ffaa4dfe9b_orig.jpg",
+            "/photos/coventry/escort/photo_1.jpg",
+            "/photos/coventry/escort/photo_3.jpg",
+            "/photos/coventry/escort/photo_4.jpg",
+            "/photos/coventry/escort/photo_5.jpg",
+            "/photos/coventry/escort/photo_6.jpg",
+            "/photos/coventry/escort/photo_7.jpg",
+            "/photos/coventry/escort/photo_8.jpg"
+          ]
+        },
+        {
+          "name": "Karol",
+          "url": "https://www.escortguide.co.uk/escort/Karol-238422",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "brunette",
+          "body": "slim",
+          "age": 23,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 250,
+            "2h": 450,
+            "overnight": 1250,
+            "currency": "GBP"
+          },
+          "rate_hourly": 250,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/23/8422/e6cccc14f911df111c09f1b60da3e1e9_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/23/8422/585b010d330002aaa0cbf42e7544b0ad_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/23/8422/cd2f6300fc27bc3d02ed90ff5c6b247d_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/23/8422/e9a35e981016763e4abd701d10b2dd37_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/23/8422/e6cccc14f911df111c09f1b60da3e1e9_pp_v2.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/23/8422/585b010d330002aaa0cbf42e7544b0ad_pp_v2.jpg"
+          ]
+        }
+      ],
       "country": "Other International"
     },
     {
@@ -35374,8 +36480,39 @@
       "slug": "dartford",
       "raw_slug": "dartford-4042",
       "name": "Dartford",
-      "count": 0,
-      "profiles": [],
+      "count": 1,
+      "profiles": [
+        {
+          "name": "Bettyboo",
+          "url": "https://www.escortguide.co.uk/escort/bettyboo-261274",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "brunette",
+          "body": "curvy",
+          "age": 29,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 250,
+            "2h": 450,
+            "overnight": 1250,
+            "currency": "GBP"
+          },
+          "rate_hourly": 250,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/1274/a88a0aebed9e3dbf5343f5a32272ca10_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/1274/ff0d69baad5d5a24ee4b412b41f87084_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/1274/208eb98078115dd3617bc360ed5f7e73_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/1274/a88a0aebed9e3dbf5343f5a32272ca10_pl.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/1274/ff0d69baad5d5a24ee4b412b41f87084_pl.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/1274/208eb98078115dd3617bc360ed5f7e73_pl.jpg"
+          ]
+        }
+      ],
       "country": "Other International"
     },
     {
@@ -35422,8 +36559,39 @@
       "slug": "ipswich",
       "raw_slug": "ipswich-2842",
       "name": "Ipswich",
-      "count": 0,
-      "profiles": [],
+      "count": 1,
+      "profiles": [
+        {
+          "name": "Escort",
+          "url": "https://www.escortguide.co.uk/escort/Sexy young girl Yoyo-228704",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "brunette",
+          "body": "curvy",
+          "age": 29,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 200,
+            "2h": 360,
+            "overnight": 1000,
+            "currency": "GBP"
+          },
+          "rate_hourly": 200,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/22/8704/af498c13cd73494e830c421fb8918c2b_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/22/8704/891df0c2764e4404b70d72ac378f3c6b_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/22/8704/c20de1d015db9cd6803897511c55fd6d_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/22/8704/af498c13cd73494e830c421fb8918c2b_pp_v2.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/22/8704/891df0c2764e4404b70d72ac378f3c6b_pp_v2.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/22/8704/c20de1d015db9cd6803897511c55fd6d_pp_v2.jpeg"
+          ]
+        }
+      ],
       "country": "Other International"
     },
     {
@@ -35812,8 +36980,46 @@
       "slug": "londonderry",
       "raw_slug": "londonderry-3831",
       "name": "Londonderry",
-      "count": 0,
-      "profiles": [],
+      "count": 1,
+      "profiles": [
+        {
+          "name": "Escort",
+          "url": "https://www.escortguide.co.uk/escort/Scouse Bianca-270787",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "brunette",
+          "body": "slim",
+          "age": 20,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 200,
+            "2h": 360,
+            "overnight": 1000,
+            "currency": "GBP"
+          },
+          "rate_hourly": 200,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/27/0787/9211070c75ca45fb4c7bf6722951810c_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/27/0787/0e5f59cdafa502409526b988c3e346e4_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/27/0787/ab443b44385813e7d06618422378361c_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/27/0787/9211070c75ca45fb4c7bf6722951810c_pl.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/27/0787/0e5f59cdafa502409526b988c3e346e4_pl.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/27/0787/ab443b44385813e7d06618422378361c_pl.jpeg",
+            "/photos/londonderry/escort/photo_1.jpg",
+            "/photos/londonderry/escort/photo_3.jpg",
+            "/photos/londonderry/escort/photo_4.jpg",
+            "/photos/londonderry/escort/photo_5.jpg",
+            "/photos/londonderry/escort/photo_6.jpg",
+            "/photos/londonderry/escort/photo_7.jpg",
+            "/photos/londonderry/escort/photo_8.jpg"
+          ]
+        }
+      ],
       "country": "United Kingdom"
     },
     {
@@ -35836,8 +37042,136 @@
       "slug": "milton-keynes",
       "raw_slug": "milton-keynes-378",
       "name": "Milton Keynes",
-      "count": 0,
-      "profiles": [],
+      "count": 4,
+      "profiles": [
+        {
+          "name": "Anne",
+          "url": "https://www.escortguide.co.uk/escort/ANNE-226105",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "brunette",
+          "body": "slim",
+          "age": 19,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 200,
+            "2h": 360,
+            "overnight": 1000,
+            "currency": "GBP"
+          },
+          "rate_hourly": 200,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/22/6105/073cdcfee1857d16cea86d5e128ec5d4_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/22/6105/9df5cf75140c5ba724a612197a57dbf2_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/22/6105/7b8a11ff0984c548b4a0ae9cec2a5950_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/22/6105/94fbd2d7fee93d61cedda5c48d1e994d_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/22/6105/0f26aaf501a2957635309a21baa2309f_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/22/6105/c17f63a7577670f2533fc4dc7991cd58_orig.jpg"
+          ]
+        },
+        {
+          "name": "Escort",
+          "url": "https://www.escortguide.co.uk/escort/Wild Cherry-213048",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "brunette",
+          "body": "slim",
+          "age": 27,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 400,
+            "2h": 720,
+            "overnight": 2000,
+            "currency": "GBP"
+          },
+          "rate_hourly": 400,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/21/3048/0cda5ec812c1d29ec0e62beacbb112c4_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/21/3048/c20d3aae6c2cf3190f81c4911f33fec2_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/21/3048/a9d0892d12604211d84ec31a28c7fc39_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/21/3048/0cda5ec812c1d29ec0e62beacbb112c4_pp_v2.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/21/3048/c20d3aae6c2cf3190f81c4911f33fec2_pp_v2.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/21/3048/a9d0892d12604211d84ec31a28c7fc39_pp_v2.jpg",
+            "/photos/milton-keynes/escort/photo_1.jpg",
+            "/photos/milton-keynes/escort/photo_3.jpg",
+            "/photos/milton-keynes/escort/photo_4.jpg",
+            "/photos/milton-keynes/escort/photo_5.jpg",
+            "/photos/milton-keynes/escort/photo_6.jpg",
+            "/photos/milton-keynes/escort/photo_7.jpg",
+            "/photos/milton-keynes/escort/photo_8.jpg"
+          ]
+        },
+        {
+          "name": "Michaela",
+          "url": "https://www.escortguide.co.uk/escort/Michaela-242576",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "brunette",
+          "body": "curvy",
+          "age": 24,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 200,
+            "2h": 360,
+            "overnight": 1000,
+            "currency": "GBP"
+          },
+          "rate_hourly": 200,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/24/2576/d7c619412e43743a978cf52a33e7c5af_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/24/2576/edcb0b28f049d97a94675a595aacc65b_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/24/2576/180097eac28168760be75baced36ee68_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/24/2576/9c0c6e0305e5cbe1fba51a5ca5eab49f_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/24/2576/2aef4e3e7b5bd3c166e37e859cde7704_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/24/2576/b5e6328b4a0923cd3c3d599d46f277a4_orig.jpeg"
+          ]
+        },
+        {
+          "name": "Lizzy",
+          "url": "https://www.escortguide.co.uk/escort/Lizzy-245083",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "brunette",
+          "body": "slim",
+          "age": 22,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 250,
+            "2h": 450,
+            "overnight": 1250,
+            "currency": "GBP"
+          },
+          "rate_hourly": 250,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/24/5083/7e35bebd93598f78b900f8b0f345dc82_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/24/5083/bee44194812e2ef0bc453f4796e8c0f5_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/24/5083/56d6dd6b9df2c965a93955a043a3e3cc_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/24/5083/2b45fa968189390fcdb94eca0c2999c4_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/24/5083/c40ad4f05adcf4b0e8ffbff8ea20f90d_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/24/5083/656e6ffff98834e41598d4fb49b4b150_orig.jpeg"
+          ]
+        }
+      ],
       "country": "United Kingdom"
     },
     {
@@ -35908,8 +37242,99 @@
       "slug": "southampton",
       "raw_slug": "southampton-466",
       "name": "Southampton",
-      "count": 0,
-      "profiles": [],
+      "count": 3,
+      "profiles": [
+        {
+          "name": "Jessy",
+          "url": "https://www.escortguide.co.uk/escort/Jessy-248666",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "brunette",
+          "body": "curvy",
+          "age": 18,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 250,
+            "2h": 450,
+            "overnight": 1250,
+            "currency": "GBP"
+          },
+          "rate_hourly": 250,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/24/8666/2924334302b66ff280a0c9ed221aa731_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/24/8666/101018ee239d84a2c298c51e98c3978f_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/24/8666/d6c336ce1979a7fd95a78119a3ea2a29_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/24/8666/66391fafc8af495e823eb2301029e8e3_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/24/8666/2924334302b66ff280a0c9ed221aa731_pp_v2.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/24/8666/101018ee239d84a2c298c51e98c3978f_pp_v2.jpg"
+          ]
+        },
+        {
+          "name": "Escort",
+          "url": "https://www.escortguide.co.uk/escort/Laura Hudson-252503",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "blonde",
+          "body": "curvy",
+          "age": 20,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 400,
+            "2h": 720,
+            "overnight": 2000,
+            "currency": "GBP"
+          },
+          "rate_hourly": 400,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/25/2503/594d6ac48ea1e404ed4b28ca36c128fa_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/25/2503/5b649252eacda31baa0a5c5598190b76_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/25/2503/231fe221574da3c10f414f3afb407bb9_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/25/2503/594d6ac48ea1e404ed4b28ca36c128fa_pl.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/25/2503/5b649252eacda31baa0a5c5598190b76_pl.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/25/2503/231fe221574da3c10f414f3afb407bb9_pp_v2.jpg"
+          ]
+        },
+        {
+          "name": "Carmen",
+          "url": "https://www.escortguide.co.uk/escort/Carmen-262215",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "blonde",
+          "body": "slim",
+          "age": 26,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 400,
+            "2h": 720,
+            "overnight": 2000,
+            "currency": "GBP"
+          },
+          "rate_hourly": 400,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/2215/0395a288f4016ef45c86e6ec4f0b6215_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/2215/33d9f7fb9bc24b17bb9fb3728753324a_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/2215/c3fffa3ac5f7613b5218501dbf66f9c9_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/2215/a00f7b19767c3f245aa475c3cfe7948d_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/2215/b0f9b6670f750541697d2e1913743862_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/2215/64bb10263d14227b85baf93cc314bca9_orig.jpg"
+          ]
+        }
+      ],
       "country": "United Kingdom"
     },
     {
@@ -35972,8 +37397,39 @@
       "slug": "aberdyfi",
       "raw_slug": "aberdyfi-608",
       "name": "Aberdyfi",
-      "count": 0,
-      "profiles": [],
+      "count": 1,
+      "profiles": [
+        {
+          "name": "Shikhaverma",
+          "url": "https://www.escortguide.co.uk/escort/shikhaverma-258513",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "blonde",
+          "body": "curvy",
+          "age": 22,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 300,
+            "2h": 540,
+            "overnight": 1500,
+            "currency": "GBP"
+          },
+          "rate_hourly": 300,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/25/8513/f13455839d1e3ab01ef1cb801ca27fbc_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/25/8513/d42e44391cbf1f765085291c5de7f89e_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/25/8513/388dabb3b9d9510f13161198a16c1af0_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/25/8513/f13455839d1e3ab01ef1cb801ca27fbc_pp_v2.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/25/8513/d42e44391cbf1f765085291c5de7f89e_pp_v2.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/25/8513/388dabb3b9d9510f13161198a16c1af0_pp_v2.jpg"
+          ]
+        }
+      ],
       "country": "Other International"
     },
     {
@@ -36004,8 +37460,39 @@
       "slug": "aldridge",
       "raw_slug": "aldridge-4039",
       "name": "Aldridge",
-      "count": 0,
-      "profiles": [],
+      "count": 1,
+      "profiles": [
+        {
+          "name": "Sanjanakaur",
+          "url": "https://www.escortguide.co.uk/escort/sanjanakaur-261320",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "brunette",
+          "body": "slim",
+          "age": 18,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 300,
+            "2h": 540,
+            "overnight": 1500,
+            "currency": "GBP"
+          },
+          "rate_hourly": 300,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/1320/fd60d21458eca6cac0d802a62b1a7503_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/1320/84cd6a4c04c42f5d3b93e816f54827ed_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/1320/5e2bbae64e703f7e010b0b70c5394bca_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/1320/fd60d21458eca6cac0d802a62b1a7503_pp_v2.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/1320/84cd6a4c04c42f5d3b93e816f54827ed_pp_v2.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/1320/5e2bbae64e703f7e010b0b70c5394bca_pp_v2.jpg"
+          ]
+        }
+      ],
       "country": "Other International"
     },
     {
@@ -36028,8 +37515,39 @@
       "slug": "basingstoke",
       "raw_slug": "basingstoke-2140",
       "name": "Basingstoke",
-      "count": 0,
-      "profiles": [],
+      "count": 1,
+      "profiles": [
+        {
+          "name": "Escort",
+          "url": "https://www.escortguide.co.uk/escort/English Ellie-260599",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "brunette",
+          "body": "slim",
+          "age": 30,
+          "age_category": "mature",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 200,
+            "2h": 360,
+            "overnight": 1000,
+            "currency": "GBP"
+          },
+          "rate_hourly": 200,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/0599/8a190da53857a8b51cac46ee20c57bef_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/0599/876e1143ea151aed12d218cf53db6738_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/0599/1c08f872e0fbbb9790882f1948a38cee_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/0599/c946bf649c5435de2932bf5318a0a727_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/0599/8f746cd983adbc248b87072219898663_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/0599/c4b6615f3c767117b29ea5ab2ac58af2_orig.jpg"
+          ]
+        }
+      ],
       "country": "United Kingdom"
     },
     {
@@ -36044,16 +37562,78 @@
       "slug": "blackburn",
       "raw_slug": "blackburn-3566",
       "name": "Blackburn",
-      "count": 0,
-      "profiles": [],
+      "count": 1,
+      "profiles": [
+        {
+          "name": "Escort",
+          "url": "https://www.escortguide.co.uk/escort/Louisa68-212035",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "brunette",
+          "body": "curvy",
+          "age": 24,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 200,
+            "2h": 360,
+            "overnight": 1000,
+            "currency": "GBP"
+          },
+          "rate_hourly": 200,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/21/2035/bd684a5a4f38d08159b36e0bf740791d_orig.png",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/21/2035/092c1b3c8b057d75e2b5cfb4b2d6df61_orig.png",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/21/2035/5dea55d07f8e42fa1547836085db5d80_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/21/2035/bd684a5a4f38d08159b36e0bf740791d_pp_v2.png",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/21/2035/092c1b3c8b057d75e2b5cfb4b2d6df61_pp_v2.png",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/21/2035/5dea55d07f8e42fa1547836085db5d80_pp_v2.jpeg"
+          ]
+        }
+      ],
       "country": "Other International"
     },
     {
       "slug": "bolton",
       "raw_slug": "bolton-1238",
       "name": "Bolton",
-      "count": 0,
-      "profiles": [],
+      "count": 1,
+      "profiles": [
+        {
+          "name": "Escort",
+          "url": "https://www.escortguide.co.uk/escort/Miss Honey-238796",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "brunette",
+          "body": "curvy",
+          "age": 24,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 250,
+            "2h": 450,
+            "overnight": 1250,
+            "currency": "GBP"
+          },
+          "rate_hourly": 250,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/23/8796/2ee3c070b9fa83b28f908d2e33a63a3c_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/23/8796/a86a44f7816b0379e9fdec8c5753bd86_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/23/8796/8887cbfca8cdea9e5fd2ccecea6d40c8_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/23/8796/75b8c4742a06c4c79d8d7ce6879fdfe3_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/23/8796/940a4eaa884014aef517b78a7ced8ea7_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/23/8796/2ee3c070b9fa83b28f908d2e33a63a3c_pp_v2.jpg"
+          ]
+        }
+      ],
       "country": "Other International"
     },
     {
@@ -36068,8 +37648,46 @@
       "slug": "bradford",
       "raw_slug": "bradford-3569",
       "name": "Bradford",
-      "count": 0,
-      "profiles": [],
+      "count": 1,
+      "profiles": [
+        {
+          "name": "Escort",
+          "url": "https://www.escortguide.co.uk/escort/Sarah363-214456",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "brunette",
+          "body": "curvy",
+          "age": 20,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 200,
+            "2h": 360,
+            "overnight": 1000,
+            "currency": "GBP"
+          },
+          "rate_hourly": 200,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/21/4456/c4a101c8ebaf1b552fdac3e404d84aa0_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/21/4456/3176571e6480b6ab0b90622a7a4aeadb_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/21/4456/101e7eea60e061ee3de3ec2d13e4da73_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/21/4456/e52cdcc4e2c3acd358fb0e9ccf3059e1_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/21/4456/025954ad13420ea88b5482703fe09bb0_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/21/4456/6b1ee66406daaa78d376053f91cdebfe_orig.jpeg",
+            "/photos/bradford/escort/photo_1.jpg",
+            "/photos/bradford/escort/photo_3.jpg",
+            "/photos/bradford/escort/photo_4.jpg",
+            "/photos/bradford/escort/photo_5.jpg",
+            "/photos/bradford/escort/photo_6.jpg",
+            "/photos/bradford/escort/photo_7.jpg",
+            "/photos/bradford/escort/photo_8.jpg"
+          ]
+        }
+      ],
       "country": "Other International"
     },
     {
@@ -36148,16 +37766,78 @@
       "slug": "dudley",
       "raw_slug": "dudley-3557",
       "name": "Dudley",
-      "count": 0,
-      "profiles": [],
+      "count": 1,
+      "profiles": [
+        {
+          "name": "Sweetroberta",
+          "url": "https://www.escortguide.co.uk/escort/SweetRoberta-267429",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "blonde",
+          "body": "curvy",
+          "age": 19,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 300,
+            "2h": 540,
+            "overnight": 1500,
+            "currency": "GBP"
+          },
+          "rate_hourly": 300,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/7429/a905b622fe7f15f284f3b990575aeb49_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/7429/0abea058788bb9e26834aacb4b7e6092_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/7429/cbca66e2caff158744b441cc7fece66b_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/7429/6d79db7d15970481e9e30fd020a7b4d8_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/7429/a905b622fe7f15f284f3b990575aeb49_pp_v2.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/7429/0abea058788bb9e26834aacb4b7e6092_pp_v2.jpeg"
+          ]
+        }
+      ],
       "country": "Other International"
     },
     {
       "slug": "edgware",
       "raw_slug": "edgware-840",
       "name": "Edgware",
-      "count": 0,
-      "profiles": [],
+      "count": 1,
+      "profiles": [
+        {
+          "name": "Aurolka",
+          "url": "https://www.escortguide.co.uk/escort/Aurolka-265254",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "brunette",
+          "body": "slim",
+          "age": 29,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 400,
+            "2h": 720,
+            "overnight": 2000,
+            "currency": "GBP"
+          },
+          "rate_hourly": 400,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/5254/5f84b97d88973400d705e82a880b32c7_orig.png",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/5254/52c0bd78cb9048f0c85fa4441d0dc286_orig.png",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/5254/ea631ad6c26c5098ec4f485726be1204_orig.png",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/5254/5f84b97d88973400d705e82a880b32c7_pp_v2.png",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/5254/52c0bd78cb9048f0c85fa4441d0dc286_pp_v2.png",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/5254/ea631ad6c26c5098ec4f485726be1204_pp_v2.png"
+          ]
+        }
+      ],
       "country": "Other International"
     },
     {
@@ -36324,16 +38004,78 @@
       "slug": "norwich",
       "raw_slug": "norwich-498",
       "name": "Norwich",
-      "count": 0,
-      "profiles": [],
+      "count": 1,
+      "profiles": [
+        {
+          "name": "Isabella",
+          "url": "https://www.escortguide.co.uk/escort/Isabella-270643",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "blonde",
+          "body": "curvy",
+          "age": 31,
+          "age_category": "mature",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 300,
+            "2h": 540,
+            "overnight": 1500,
+            "currency": "GBP"
+          },
+          "rate_hourly": 300,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/27/0643/d0ecb25ad1ed7d3b038bd62f8178e51c_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/27/0643/e043d97b9391bf48246d7cae359722f0_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/27/0643/ab0fda81f3e10702461a4545818f324e_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/27/0643/d0ecb25ad1ed7d3b038bd62f8178e51c_pp_v2.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/27/0643/e043d97b9391bf48246d7cae359722f0_pp_v2.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/27/0643/ab0fda81f3e10702461a4545818f324e_pp_v2.jpeg"
+          ]
+        }
+      ],
       "country": "United Kingdom"
     },
     {
       "slug": "nottingham",
       "raw_slug": "nottingham-376",
       "name": "Nottingham",
-      "count": 0,
-      "profiles": [],
+      "count": 1,
+      "profiles": [
+        {
+          "name": "Escort",
+          "url": "https://www.escortguide.co.uk/escort/Classy filth-218150",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "blonde",
+          "body": "curvy",
+          "age": 30,
+          "age_category": "mature",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 200,
+            "2h": 360,
+            "overnight": 1000,
+            "currency": "GBP"
+          },
+          "rate_hourly": 200,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/21/8150/1bebca64e259d0cb014204821154f6b1_orig.png",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/21/8150/21e95d472a4adff4fa9c2372f4732984_orig.png",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/21/8150/ba917f43c1b6283d1e68e142a963d875_orig.png",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/21/8150/1bebca64e259d0cb014204821154f6b1_pl.png",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/21/8150/21e95d472a4adff4fa9c2372f4732984_pp_v2.png",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/21/8150/ba917f43c1b6283d1e68e142a963d875_pp_v2.png"
+          ]
+        }
+      ],
       "country": "United Kingdom"
     },
     {
@@ -36348,8 +38090,39 @@
       "slug": "salisbury",
       "raw_slug": "salisbury-3577",
       "name": "Salisbury",
-      "count": 0,
-      "profiles": [],
+      "count": 1,
+      "profiles": [
+        {
+          "name": "Babychiexx",
+          "url": "https://www.escortguide.co.uk/escort/BabyChiexx-227605",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "blonde",
+          "body": "curvy",
+          "age": 20,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 200,
+            "2h": 360,
+            "overnight": 1000,
+            "currency": "GBP"
+          },
+          "rate_hourly": 200,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/22/7605/39bcafdeaf0677616c7c0418b023c831_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/22/7605/59f6adbd68f4de2a50f01feaed246e56_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/22/7605/281ef9180a79367e41c5181041655546_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/22/7605/39bcafdeaf0677616c7c0418b023c831_pp_v2.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/22/7605/59f6adbd68f4de2a50f01feaed246e56_pp_v2.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/22/7605/281ef9180a79367e41c5181041655546_pp_v2.jpg"
+          ]
+        }
+      ],
       "country": "Other International"
     },
     {
@@ -36476,8 +38249,39 @@
       "slug": "blackpool",
       "raw_slug": "blackpool-3568",
       "name": "Blackpool",
-      "count": 0,
-      "profiles": [],
+      "count": 1,
+      "profiles": [
+        {
+          "name": "Escort",
+          "url": "https://www.escortguide.co.uk/escort/Sabi Angel-260532",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "blonde",
+          "body": "curvy",
+          "age": 29,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 200,
+            "2h": 360,
+            "overnight": 1000,
+            "currency": "GBP"
+          },
+          "rate_hourly": 200,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/0532/531d16558e7c31c7f80acc75ca3d8945_orig.png",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/0532/4aa382826b71c6bffc94b78b2cace791_orig.png",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/0532/5d69134f48ef85bc7d0575cd3304561d_orig.png",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/0532/531d16558e7c31c7f80acc75ca3d8945_pp_v2.png",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/0532/4aa382826b71c6bffc94b78b2cace791_pp_v2.png",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/0532/5d69134f48ef85bc7d0575cd3304561d_pp_v2.png"
+          ]
+        }
+      ],
       "country": "Other International"
     },
     {
@@ -36564,8 +38368,39 @@
       "slug": "northampton",
       "raw_slug": "northampton-359",
       "name": "Northampton",
-      "count": 0,
-      "profiles": [],
+      "count": 1,
+      "profiles": [
+        {
+          "name": "Kati",
+          "url": "https://www.escortguide.co.uk/escort/Kati-230075",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "brunette",
+          "body": "curvy",
+          "age": 23,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 400,
+            "2h": 720,
+            "overnight": 2000,
+            "currency": "GBP"
+          },
+          "rate_hourly": 400,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/23/0075/86e8f2d5d8d409c1af16cf30ea11bdfc_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/23/0075/368202c982caf67ebff4b75911b0cb2a_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/23/0075/68337ce0811920656058a003342d6177_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/23/0075/86e8f2d5d8d409c1af16cf30ea11bdfc_pp_v2.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/23/0075/368202c982caf67ebff4b75911b0cb2a_pp_v2.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/23/0075/68337ce0811920656058a003342d6177_pp_v2.jpg"
+          ]
+        }
+      ],
       "country": "Other International"
     },
     {
@@ -37700,8 +39535,136 @@
       "slug": "liverpool",
       "raw_slug": "liverpool-353",
       "name": "Liverpool",
-      "count": 3,
+      "count": 7,
       "profiles": [
+        {
+          "name": "Sara",
+          "url": "https://www.escortguide.co.uk/escort/Sara-231533",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "blonde",
+          "body": "slim",
+          "age": 28,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 250,
+            "2h": 450,
+            "overnight": 1250,
+            "currency": "GBP"
+          },
+          "rate_hourly": 250,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/23/1533/251e02eeb3d1b5d8252494e254ba79b9_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/23/1533/794c6d30b44a10083270e0ddb54168bd_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/23/1533/64bc84ade6ecf09e582133fe3922f489_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/23/1533/251e02eeb3d1b5d8252494e254ba79b9_pl.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/23/1533/794c6d30b44a10083270e0ddb54168bd_pp_v2.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/23/1533/64bc84ade6ecf09e582133fe3922f489_pl.jpeg"
+          ]
+        },
+        {
+          "name": "Natasha",
+          "url": "https://www.escortguide.co.uk/escort/Natasha-230415",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "brunette",
+          "body": "slim",
+          "age": 25,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 200,
+            "2h": 360,
+            "overnight": 1000,
+            "currency": "GBP"
+          },
+          "rate_hourly": 200,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/23/0415/0fb3a12bca0925204ee99f42d288c888_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/23/0415/1a826bea8a2e8d1b2f8b474afbec5f3a_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/23/0415/0d1e4bc4dd541d005287fc602373fefd_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/23/0415/0fb3a12bca0925204ee99f42d288c888_pl.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/23/0415/1a826bea8a2e8d1b2f8b474afbec5f3a_pl.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/23/0415/0d1e4bc4dd541d005287fc602373fefd_pp_v2.jpg"
+          ]
+        },
+        {
+          "name": "Escort",
+          "url": "https://www.escortguide.co.uk/escort/Jade and friends-227821",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "blonde",
+          "body": "curvy",
+          "age": 30,
+          "age_category": "mature",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 400,
+            "2h": 720,
+            "overnight": 2000,
+            "currency": "GBP"
+          },
+          "rate_hourly": 400,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/22/7821/0b19729ac32d783ddda5ff8f2ddfae70_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/22/7821/809712c6abbd5a07c9dbe16351cb5188_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/22/7821/18397bfe015df4028969270b30ddadc8_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/22/7821/87af327415411a9933cee9e51616f6b4_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/22/7821/0b19729ac32d783ddda5ff8f2ddfae70_pl.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/22/7821/809712c6abbd5a07c9dbe16351cb5188_pp_v2.jpg",
+            "/photos/liverpool/escort/photo_1.jpg",
+            "/photos/liverpool/escort/photo_3.jpg",
+            "/photos/liverpool/escort/photo_4.jpg",
+            "/photos/liverpool/escort/photo_5.jpg",
+            "/photos/liverpool/escort/photo_6.jpg",
+            "/photos/liverpool/escort/photo_7.jpg",
+            "/photos/liverpool/escort/photo_8.jpg"
+          ]
+        },
+        {
+          "name": "Jess",
+          "url": "https://www.escortguide.co.uk/escort/Jess-235200",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "brunette",
+          "body": "curvy",
+          "age": 24,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 400,
+            "2h": 720,
+            "overnight": 2000,
+            "currency": "GBP"
+          },
+          "rate_hourly": 400,
+          "photos": [
+            "/photos/liverpool/jess/photo_1.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/23/5200/db04b36446e36aefcf17be33dbd23501_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/23/5200/804c4fa9c7e6be46ba8ed66a635eaff2_orig.jpeg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/23/5200/8cf4e33b560c70a48bbbf79244de93df_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/23/5200/85e1db74cb6a468907c239fd65a50c5a_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/23/5200/7c4181651378d03dd6f9dab5f78b738e_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/23/5200/433b6d4ed2a6a160a48f3f1f38bf281a_orig.jpg"
+          ]
+        },
         {
           "name": "Elena",
           "url": "https://www.escortguide.co.uk/escort/Elena-265689",
