@@ -1,6 +1,6 @@
 {
   "total_cities": 818,
-  "total_profiles": 1113,
+  "total_profiles": 1115,
   "cities": [
     {
       "slug": "cambridge",
@@ -21415,8 +21415,76 @@
       "slug": "brussels",
       "raw_slug": "brussels-163",
       "name": "Brussels",
-      "count": 312,
+      "count": 314,
       "profiles": [
+        {
+          "name": "Venez",
+          "url": "https://www.quartier-rouge.be/escort/femmes/venez-vous-detendre.html",
+          "provider": "Quartier-Rouge Verified",
+          "badge": "★ VIP VERIFIED",
+          "hair": "black",
+          "body": "curvy",
+          "age": 27,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall",
+            "massage",
+            "overnight"
+          ],
+          "nationality": "belgian",
+          "rates": {
+            "1h": 200,
+            "2h": 350,
+            "overnight": 900,
+            "currency": "EUR"
+          },
+          "rate_hourly": 200,
+          "photos": [
+            "/photos/brussels/venez/photo_1.jpg",
+            "/photos/brussels/venez/photo_2.avif",
+            "/photos/brussels/venez/photo_3.avif",
+            "/photos/brussels/venez/photo_4.jpg",
+            "/photos/brussels/venez/photo_5.avif",
+            "/photos/brussels/venez/photo_6.avif",
+            "/photos/brussels/venez/photo_7.avif",
+            "/photos/brussels/venez/photo_8.avif"
+          ]
+        },
+        {
+          "name": "A La Decouvertes De Vos Sens",
+          "url": "https://www.quartier-rouge.be/escort/femmes/a-la-decouvertes-de-vos-sens.html",
+          "provider": "Quartier-Rouge Verified",
+          "badge": "★ VIP VERIFIED",
+          "hair": "brunette",
+          "body": "busty",
+          "age": 28,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall",
+            "massage",
+            "overnight"
+          ],
+          "nationality": "belgian",
+          "rates": {
+            "1h": 200,
+            "2h": 350,
+            "overnight": 900,
+            "currency": "EUR"
+          },
+          "rate_hourly": 200,
+          "photos": [
+            "/photos/brussels/a-la-decouvertes-de-vos-sens/photo_1.jpg",
+            "/photos/brussels/a-la-decouvertes-de-vos-sens/photo_2.avif",
+            "/photos/brussels/a-la-decouvertes-de-vos-sens/photo_3.avif",
+            "/photos/brussels/a-la-decouvertes-de-vos-sens/photo_4.jpg",
+            "/photos/brussels/a-la-decouvertes-de-vos-sens/photo_5.avif",
+            "/photos/brussels/a-la-decouvertes-de-vos-sens/photo_6.avif",
+            "/photos/brussels/a-la-decouvertes-de-vos-sens/photo_7.avif",
+            "/photos/brussels/a-la-decouvertes-de-vos-sens/photo_8.avif"
+          ]
+        },
         {
           "name": "Beatriz",
           "url": "https://www.quartier-rouge.be/escort/femmes/beatriz-escort-4.html",
