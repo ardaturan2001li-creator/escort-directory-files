@@ -1,6 +1,6 @@
 {
   "total_cities": 818,
-  "total_profiles": 1213,
+  "total_profiles": 1215,
   "cities": [
     {
       "slug": "cambridge",
@@ -38153,8 +38153,69 @@
       "slug": "swindon",
       "raw_slug": "swindon-507",
       "name": "Swindon",
-      "count": 0,
-      "profiles": [],
+      "count": 2,
+      "profiles": [
+        {
+          "name": "Escort",
+          "url": "https://www.escortguide.co.uk/escort/Hot Aniela-205159",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "brunette",
+          "body": "curvy",
+          "age": 26,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 400,
+            "2h": 720,
+            "overnight": 2000,
+            "currency": "GBP"
+          },
+          "rate_hourly": 400,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/20/5159/b3ca92d3fc172003864f58b179302846_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/20/5159/d64089be7245ca2fcfda75b2c3bb609e_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/20/5159/dad37ea4077f1f4e992268e2fb360d89_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/20/5159/b3ca92d3fc172003864f58b179302846_pp_v2.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/20/5159/d64089be7245ca2fcfda75b2c3bb609e_pp_v2.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/20/5159/dad37ea4077f1f4e992268e2fb360d89_pp_v2.jpg"
+          ]
+        },
+        {
+          "name": "Angeline",
+          "url": "https://www.escortguide.co.uk/escort/Angeline-268409",
+          "provider": "VIP Escort",
+          "badge": "★ VIP VERIFIED",
+          "hair": "blonde",
+          "body": "curvy",
+          "age": 20,
+          "age_category": "young",
+          "services": [
+            "hotel_outcall",
+            "incall"
+          ],
+          "nationality": "british",
+          "rates": {
+            "1h": 400,
+            "2h": 720,
+            "overnight": 2000,
+            "currency": "GBP"
+          },
+          "rate_hourly": 400,
+          "photos": [
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/8409/6662ff297248fc7c2602f13e3cbeb9e5_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/8409/facb0adfb2668c81f71e0f8d9843a2cc_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/8409/6848a0a0504ca5483641918954705a22_orig.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/8409/6662ff297248fc7c2602f13e3cbeb9e5_pp_v2.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/8409/facb0adfb2668c81f71e0f8d9843a2cc_pp_v2.jpg",
+            "https://pic.escortguide.co.uk/escortguide.co.uk/26/8409/6848a0a0504ca5483641918954705a22_pp_v2.jpg"
+          ]
+        }
+      ],
       "country": "United Kingdom"
     },
     {
